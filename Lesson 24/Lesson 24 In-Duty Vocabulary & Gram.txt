@@ -1,0 +1,230 @@
+**Lesson 24 In-Duty Vocabulary & Grammar Guide**
+
+---
+
+### **Comprehensive Vocabulary Breakdown with Detailed Examples**
+
+1. **くさります (腐ります, kusarimasu)** – To rot, go bad, spoil (for food).
+* *Example:*
+* **Kanji:** 暑いから、魚が腐ります。
+* **Without Kanji:** あついから、さかながくさります。
+* **Romaji:** Atsui kara, sakana ga kusarimasu.
+* **Translation:** Because it's hot, the fish will go bad.
+
+
+
+
+2. **かします (貸します, kashimasu)** – To lend, loan (giving something to someone).
+* *Example:*
+* **Kanji:** 友達に本を貸します。
+* **Without Kanji:** ともだちにほんをかします。
+* **Romaji:** Tomodachi ni hon o kashimasu.
+* **Translation:** I will lend a book to my friend.
+
+
+
+
+3. **かります (借ります, karimasu)** – To borrow, rent (receiving something from someone).
+* *Example:*
+* **Kanji:** 図書館で本を借ります。
+* **Without Kanji:** としょかんでほんをかります。
+* **Romaji:** Toshokan de hon o karimasu.
+* **Translation:** I will borrow a book from the library.
+
+
+
+
+4. **かえします (返します, kaeshimasu)** – To return, give back (an item borrowed).
+* *Example:*
+* **Kanji:** 友達に傘を返します。
+* **Without Kanji:** ともだちにかさをかえします。
+* **Romaji:** Tomodachi ni kasa o kaeshimasu.
+* **Translation:** I will return the umbrella to my friend.
+
+
+
+
+5. **あげます (agemasu)** – To give (to someone else).
+* *Example:*
+* **Kanji:** 妹にプレゼントをあげます。
+* **Without Kanji:** いもうとにプレゼントをあげます。
+* **Romaji:** Imouto ni purezento o agemasu.
+* **Translation:** I will give a present to my younger sister.
+
+
+
+
+6. **もらいます (moraimasu)** – To receive, get (from someone).
+* *Example:*
+* **Kanji:** 父に新しい時計をもらいました。
+* **Without Kanji:** ちちにあたらしいとけいをもらいました。
+* **Romaji:** Chichi ni atarashii tokei o moraimashita.
+* **Translation:** I received a new watch from my father.
+
+
+
+
+7. **くれます (kuremasu)** – To give (to me or my in-group).
+* *Example:*
+* **Kanji:** 先生が日本語の本をくれました。
+* **Without Kanji:** せんせいがにほんごのほんをくれました。
+* **Romaji:** Sensei ga Nihongo no hon o kuremashita.
+* **Translation:** The teacher gave me a Japanese book.
+
+
+
+
+8. **おとします (落とします, otoshimasu)** – To drop, lose.
+* *Example:*
+* **Kanji:** 道で財布を落としました。
+* **Without Kanji:** みちでさいふをおとしました。
+* **Romaji:** Michi de saifu o otoshimashita.
+* **Translation:** I dropped my wallet on the street.
+
+
+
+
+9. **てがきます (手紙を書きます / 手紙を…)** – *[Reviewing general giving/receiving objects]*
+* *Example:*
+* **Kanji:** 友達に手紙を書きます。
+* **Without Kanji:** ともだちにてがみをかきます。
+* **Romaji:** Tomodachi ni tegami o kakimasu.
+* **Translation:** I will write a letter to a friend.
+
+
+
+
+10. **てのひら / でんわをします (電話をします, denwa o shimasu)** – To make a phone call.
+* *Example:*
+* **Kanji:** 母に電話をします。
+* **Without Kanji:** ははにでんわをします。
+* **Romaji:** Haha ni denwa o shimasu.
+* **Translation:** I will make a phone call to my mother.
+
+
+
+
+11. **こども (子供, kodomo)** – Child, children.
+* *Example:*
+* **Kanji:** 公園で子供が遊んでいます。
+* **Without Kanji:** こうえんでこどもが遊んでいます。 / こうえんでこどもがあそんでいます。
+* **Romaji:** Kouen de kodomo ga asonde imasu.
+* **Translation:** Children are playing in the park.
+
+
+
+
+12. **いちにち (一日, ichinichi)** – One day / all day long.
+* *Example:*
+* **Kanji:** 一日中、日本語を勉強しました。
+* **Without Kanji:** いちにちじゅう、にほんごをべんきょうしました。
+* **Romaji:** Ichinichijuu, Nihongo o benkyou shimashita.
+* **Translation:** I studied Japanese all day long.
+
+
+
+
+13. **ぜんぶ (全部, zenbu)** – All, everything, total.
+* *Example:*
+* **Kanji:** 料理を全部食べました。
+* **Without Kanji:** りょうりをぜんぶたべました。
+* **Romaji:** Ryouri o zenbu tabemashita.
+* **Translation:** I ate all the food.
+
+
+
+
+14. **じぶん (自分, jibun)** – Oneself, self.
+* *Example:*
+* **Kanji:** それは自分で作りました。
+* **Without Kanji:** それは自分でつくりました。 / それはじぶんでつくりました。
+* **Romaji:** Sore wa jibun de tsukurimashita.
+* **Translation:** I made that by myself.
+
+
+
+
+15. **ほかの (hoka no)** – Other, another.
+* *Example:*
+* **Kanji:** ほかの本を見せてください。
+* **Without Kanji:** ほかのほんをみせてください。
+* **Romaji:** Hoka no hon o misete kudasai.
+* **Translation:** Please show me another book.
+
+
+
+
+
+---
+
+### **In-Depth Grammar Points & Comprehensive Structural Explanations**
+
+#### **1. Giving and Receiving Objects (あげます / もらいます / くれます)**
+
+* **In-Depth Explanation:** Japanese features verbs of giving and receiving that depend entirely on the **direction of the transfer** relative to the speaker and their perspective group (in-group vs. out-group).
+* **あげます (*agemasu*)**: Used when the speaker (or someone in their in-group) gives something to another person (*out-group*). **Particle pattern:** [Giver] は [Recipient] **に** [Thing] をあげます。
+* **もらいます (*moraimasu*)**: Used when the speaker receives something from another person. **Particle pattern:** [Receiver] は [Giver] **から (or に)** [Thing] をもらいます。
+* **くれます (*kuremasu*)**: Used when someone else gives something **to the speaker** (or to the speaker's in-group). **Particle pattern:** [Giver] は [Me/In-group] **に** [Thing] をくれます。
+
+
+* **Detailed Breakdown & Extended Examples:**
+* **Agemasu Example:**
+* **Kanji:** 私は友達**に**プレゼントを**あげました**。
+* **Without Kanji:** わたしはともだちにプレゼントをあげました。
+* **Romaji:** Watashi wa tomodachi ni purezento o agemashita.
+* **Translation:** I **gave** a present **to my friend**.
+
+
+* **Moraimasu Example:**
+* **Kanji:** 私は先生**から**本を**もらいました**。
+* **Without Kanji:** わたしはせんせいから本をもらいました。 / わたしはせんせいからほんをもらいました。
+* **Romaji:** Watashi wa sensei kara hon o moraimashita.
+* **Translation:** I **received** a book **from the teacher**.
+
+
+* **Kuremasu Example:**
+* **Kanji:** 先生が私**に**本を**くれました**。
+* **Without Kanji:** せんせいがわたしに本をくれました。 / せんせいがわたしにほんをくれました。
+* **Romaji:** Sensei ga watashi ni hon o kuremashita.
+* **Translation:** The teacher **gave** a book **to me**.
+
+
+
+
+
+#### **2. Lending and Borrowing (かします vs. かります)**
+
+* **In-Depth Explanation:** Similar to giving and receiving, these verbs describe the transfer of temporary possession.
+* **かします (*kashimasu*)**: To lend (you own/have it, you let someone else use it). Takes **に** for the person borrowing.
+* **かります (*karimasu*)**: To borrow (you take something from someone with the intent to return it). Takes **から** for the person lending.
+
+
+* **Extended Examples:**
+* **Kanji:** 私は弟**に**傘を**貸しました**。
+* **Without Kanji:** わたしはおとうとに傘を貸しました。 / わたしはおとうとにかさをかしました。
+* **Romaji:** Watashi wa otouto ni kasa o kashimashita.
+* **Translation:** I **lent** an umbrella **to my younger brother**.
+* **Kanji:** 私は図書館**から**本を**借りました**。
+* **Without Kanji:** わたしはとしょかんから本を借りました。 / わたしはとしょかんからほんをかりました。
+* **Romaji:** Watashi wa toshokan kara hon o karimashita.
+* **Translation:** I **borrowed** a book **from the library**.
+
+
+
+#### **3. Doing Something for Someone / Benefactive Expressions (~てあげます / ~てもらいます / ~てくれます)**
+
+* **In-Depth Explanation:** By attaching these verbs to the **~て form** of a main action verb, you express doing a favor for someone, having someone do a favor for you, or someone kindly doing a favor for you.
+* **~てあげます**: Doing a favor for someone else.
+* **~てもらいます**: Having someone do a favor for you (receiving the benefit of an action).
+* **~てくれます**: Someone kindly doing a favor for you.
+
+
+* **Extended Example:**
+* **Kanji:** 友達が日本語の宿題を**手伝ってくれました**。
+* **Without Kanji:** ともだちがにほんごのしゅくだいをてずだってくれました。 / ともだちがにほんごのしゅくだいをてだってくれました。
+* **Romaji:** Tomodachi ga Nihongo no shukudai o tedatte kuremashita. (tedatte -> tedandatte / tedatte = tedatte is ok for Tedasu/Tedatsu, standard is Tedatsu -> Tedatte or Tedau -> Tedatte. Let's use standard: *手伝ってくれました - tedatte kuremashita*).
+* **Translation:** My friend kindly **helped me with** my Japanese homework.
+
+
+
+---

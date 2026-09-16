@@ -1,0 +1,162 @@
+**Lesson 11 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **ひとつ (ひとつ, hitotsu)** – One (used when counting general objects)
+* **ふたつ (ふたつ, futatsu)** – Two
+* **みっつ (みっつ, mittsu)** – Three
+* **よっつ (よっつ, yottsu)** – Four
+* **いつつ (いつつ, itsutsu)** – Five
+* **むっつ (むっつ, muttsu)** – Six
+* **ななつ (ななつ, nanatsu)** – Seven
+* **やっつ (やっつ, yattsu)** – Eight
+* **ここのつ (ここのつ, kokonotsu)** – Nine
+* **とお (とお, too)** – Ten
+* **いくつ (いくつ, ikutsu)** – How many
+* **一人 (ひとり, hitori)** – One person
+* **二人 (ふたり, futari)** – Two people
+* **～人 (～にん, ~nin)** – ~ people (counter for people)
+* **～台 (～だい, ~dai)** – Counter for machines, cars, vehicles
+* **～枚 (～まい, ~mai)** – Counter for flat, thin objects (paper, stamps, shirts)
+* **～回 (～かい, ~kai)** – Counter for times / frequency
+* **りんご (りんご, ringo)** – Apple
+* **みかん (みかん, mikan)** – Mandarin orange
+* **サンドイッチ (サンドイッチ, sandoitchi)** – Sandwich
+* **カレー[ライス] (カレー[ライス], karee [raisu])** – Curry [and rice]
+* **アイスクリーム (アイスクリーム, aisukuriimu)** – Ice cream
+* **切手 (きって, kitte)** – Postage stamp
+* **はがき (はがき, hagaki)** – Postcard
+* **封筒 (ふうとう, fuutou)** – Envelope
+* **両親 (りょうしん, ryoushin)** – Parents
+* **兄弟 (きょうだい, kyoudai)** – Siblings / Brothers and sisters
+* **兄 (あに, ani)** – My elder brother
+* **お兄さん (おにいさん, oniisan)** – Someone else's elder brother
+* **姉 (あね, ane)** – My elder sister
+* **お姉さん (おねえさん, oneesan)** – Someone else's elder sister
+* **弟 (おとうと, otouto)** – My younger brother
+* **弟さん (おとうとさん, otoutosan)** – Someone else's younger brother
+* **妹 (いもうと, imouto)** – My younger sister
+* **妹さん (いもうとさん, imoutosan)** – Someone else's younger sister
+* **外国 (がいこく, gaikoku)** – Foreign country
+* **留学生 (りゅうがくせい, ryuugakusei)** – Foreign exchange student
+* **クラス (クラス, kurasu)** – Class
+* **～時間 (～じかん, ~jikan)** – ~ hours
+* **～週間 (～しゅうかん, ~shuukan)** – ~ weeks
+* **～か月 (～かげつ, ~kagetsu)** – ~ months
+* **～年 (～ねん, ~nen)** – ~ years
+* **～ぐらい (～ぐらい, ~gurai)** – About / Approximately ~
+* **どのくらい (どのくらい, dono kurai)** – How long / How much
+* **全部で (ぜんぶで, zenbu de)** – In total
+* **みんな (みんな, minna)** – All / Everything / Everyone
+* **～だけ (～だけ, ~dake)** – Only ~
+* **かかります (かかります, kakarimasu)** – To take (time or money)
+* **休みます (やすみます, yasumimasu)** – To take a rest / To take a day off
+
+---
+
+**Grammar Concepts & Examples (Lesson 11)**
+
+**1. Quantifier Placement in Sentences**
+
+* **Simple Explanation:** Japanese quantifiers (number + counter) are usually placed **after** the object particle (**を**, **が**, etc.) and directly **before** the verb. You do not need to add **の** between the quantifier and the verb.
+* **Example 1:**
+* **Kanji:** りんごを四つ買いました。
+* **Without Kanji:** りんごをよっつかいのした。
+* **Romaji:** Ringo o yottsu kaimashita.
+* **Translation:** I bought four apples.
+* **Example 2:**
+* **Kanji:** 外国人の学生が二人います。
+* **Without Kanji:** がいこくじんのがくせいがふたりいます。
+* **Romaji:** Gaikokujin no gakusei ga futari imasu.
+* **Translation:** There are two foreign students.
+* **Example 3:**
+* **Kanji:** サミットさんは切手を五枚買いました。
+* **Without Kanji:** サミットさんはきってをごまいかいました。
+* **Romaji:** Samitto-san wa kitte o gomai kaimashita.
+* **Translation:** Sumedh bought five stamps.
+* **Exception / Special Note:** When specifying a time duration or noun-modifying amount, **[Quantifier] の [Noun]** is also possible (e.g., 1時間の休み - 1 hour rest), but direct placement before the verb is standard for actions.
+
+---
+
+**2. Quantifier (Time Duration) + に + [Frequency] + [Action]**
+
+* **Simple Explanation:** To express how often an action occurs within a specific time period (e.g., "twice a month", "three times a week"), state the time frame, followed by **に**, then the frequency counter (**～回**), and the verb.
+* **Example 1:**
+* **Kanji:** 一か月に二回映画を見ます。
+* **Without Kanji:** いっかげつににかいえいがをみます。
+* **Romaji:** Ikkagetsu ni nikai eiga o mimasu.
+* **Translation:** I watch movies twice a month.
+* **Example 2:**
+* **Kanji:** 一週間に一回プールで泳ぎます。
+* **Without Kanji:** いっしゅうかんにいっかいプールでおよぎます。
+* **Romaji Isshuukan ni ikkai puuru de oyogimasu.**
+* **Translation:** I swim in the pool once a week.
+* **Example 3:**
+* **Kanji:** サミットさんは一日に三回薬を飲みます。
+* **Without Kanji:** サミットさんはいちにちにさんかいくすりをのみます。
+* **Romaji:** Samitto-san wa ichiniti ni sankai kusuri o nomimasu.
+* **Translation:** Sumedh takes medicine three times a day.
+
+---
+
+**3. Quantifier (Time / Money) + かかります (Required Time or Cost)**
+
+* **Simple Explanation:** Use **かかります** (*kakarimasu*) to indicate how much time or money is required to complete an action or journey.
+* **Example 1:**
+* **Kanji:** うちから駅まで十五分かかります。
+* **Without Kanji:** うちからえきまでじゅうごふんかかります。
+* **Romaji:** Uchi kara eki made juugofun kakarimasu.
+* **Translation:** It takes 15 minutes from my house to the station.
+* **Example 2:**
+* **Kanji:** このパソコンは十万円かかりました。
+* **Without Kanji:** このパソコンはじゅうまんえんかかりました。
+* **Romaji:** Kono pasokon wa juuman-en kakarimashita.
+* **Translation:** This computer cost 100,000 yen.
+* **Example 3:**
+* **Kanji:** サミットさんは日本語を一年勉強しました。
+* **Without Kanji:** サミットさんはにほんごをいちねんべんきょうしました。
+* **Romaji:** Samitto-san wa Nihongo o ichinen benkyou shimashita.
+* **Translation:** Sumedh studied Japanese for one year.
+* **Exception / Special Note:** Particles like **で** or **を** are not attached after the duration quantifier when used with **かかります**.
+
+---
+
+**4. どのくらい / どのくらい かかりますか (Asking Duration or Expense)**
+
+* **Simple Explanation:** Use **どのくらい** (*dono kurai*) to ask "how long" a duration takes or "how much" an expense costs. You can combine it with **かかりますか** to ask travel or completion time.
+* **Example 1:**
+* **Kanji:** 大阪までどのくらいかかりますか。
+* **Without Kanji:** おおさくまでどのくらいかかりますか。
+* **Romaji:** Oosaka made dono kurai kakarimasu ka.
+* **Translation:** How long does it take to Osaka?
+* **Example 2:**
+* **Kanji:** 新幹線で二時間くらいかかります。
+* **Without Kanji:** しんかんせんでにじかんくらいかかります。
+* **Romaji:** Shinkansen de nijikan kurai kakarimasu.
+* **Translation:** It takes about two hours by Shinkansen.
+* **Example 3:**
+* **Kanji:** サミットさんはどのくらい日本語を勉強しましたか。
+* **Without Kanji:** サミットさんはどのくらいにほんごをべんきょうしましたか。
+* **Romaji:** Samitto-san wa dono kurai Nihongo o benkyou shimashita ka.
+* **Translation:** How long has Sumedh studied Japanese?
+
+---
+
+**5. Quantifier + だけ (Only ~)**
+
+* **Simple Explanation:** Attach **だけ** (*dake*) directly after a quantifier or noun to indicate "only" or "no more than" that exact amount.
+* **Example 1:**
+* **Kanji:** 休みは日曜日だけです。
+* **Without Kanji:** やすみはにちようびだけです。
+* **Romaji:** Yasumi wa nichiyoubi dake desu.
+* **Translation:** My day off is only Sunday.
+* **Example 2:**
+* **Kanji:** 会社に外国人の社員が一人だけいます。
+* **Without Kanji:** かいしゃにがいこくじんのしゃいんがひとりだけいます。
+* **Romaji:** Kaisha ni gaikokujin no shain ga hitori dake imasu.
+* **Translation:** There is only one foreign employee at the company.
+* **Example 3:**
+* **Kanji:** サミットさんはりんごを一つだけ買いました。
+* **Without Kanji:** サミットさんはりんごをひとつだけかいました。
+* **Romaji:** Samitto-san wa ringo o hitotsu dake kaimashita.
+* **Translation:** Sumedh bought only one apple.

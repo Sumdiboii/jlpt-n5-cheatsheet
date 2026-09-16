@@ -1,0 +1,79 @@
+**Lesson 20 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **かります (借ります, karimasu)** – To borrow
+* **かえします (返します, kaeshimasu)** – To return, give back (covered in L17, but reviewed in L20)
+* **手伝います (てつだいます, tetsudaimasu)** – To help, assist
+* **呼びます (よびます, yobimasu)** – To call, invite
+* **話します (はなします, hanashimasu)** – To speak, talk
+* **見ます (みます, mimasu)** – To look, watch, see
+* **[0]点 (てん, ten)** – Points, score
+* **[お]金 (かね, kane)** – Money
+* **[お]酒 (さけ, sake)** – Alcohol, Japanese rice wine
+* **きゅうりょう (給料, kyuuryou)** – Salary
+* **ボーナス (boonasu)** – Bonus
+* **ばんごはん (晩ごはん, bangohan)** – Dinner, evening meal
+* **おゆ (お湯, oyu)** – Hot water
+* **旅行 (りょこう, ryokou)** – Travel, trip
+* **チケット (chiketto)** – Ticket
+* **[お]かねもち ([お]かねもち, [o]kanemochi)** – Rich person
+* **[～]くん ([～]kun)** – Mr./Master ~ (suffix used for peers, younger people, or boys)
+* **[～]ちゃん (~chan)** – Suffix used for children, close friends, or pets (affectionate)
+* **うん (un)** – Yes (casual/informal equivalent of はい)
+* **ううん (uun)** – No (casual/informal equivalent of いいえ)
+* **ことば (言葉, kotoba)** – Word, language
+* **ざんねん[ですね] (残念[ですね], zannen [desu ne])** – That's a pity / That's too bad
+* **どうやって (dou yatte)** – By what means, how
+
+---
+
+**Grammar Concepts & Conjugation Rules (Lesson 20)**
+
+**1. Polite Form vs. Plain/Casual Form (Introduction)**
+
+* **Simple Explanation:** Up to Lesson 19, you have learned the **polite form** (ending in *desu* / *masu*), which is used with acquaintances, superiors, and in public. Lesson 20 introduces the **plain/casual form** (informal dictionary form / ta-form / nai-form / da-form), which is used when speaking with close friends, family members, or people of equal or younger status.
+
+---
+
+**2. Casual Conversation (Dropping Particles & Conversational Habits)**
+
+* **Simple Explanation:** In casual speech, particles like **は** (*wa*), **が** (*ga*), **を** (*o*), and **に** (*ni*) are frequently omitted when the meaning is clear from context.
+* **Example 1:**
+* **Polite:** あした、どこへ行きますか。
+* **Casual:** あした、どこ行く？ (*Ashita, doko iku?*)
+* **Translation:** Where are you going tomorrow?
+
+
+
+---
+
+**3. Expressing Affirmation and Negation Casually (うん / ううん)**
+
+* **Simple Explanation:** Instead of using **はい** (*hai*) and **いいえ** (*iie*), casual conversation uses **うん** (*un* for "yes") and **ううん** (*uun* for "no").
+* **Example 1:**
+* **Question:** もう昼ご飯を食べた？ (*Mou hiru-gohan o tabeta?*) $\rightarrow$ Did you already eat lunch?
+* **Answer:** うん、食べた。 (*Un, tabeta.*) $\rightarrow$ Yeah, I did.
+
+
+
+---
+
+**4. Addressing People (Kun / Chan Suffixes)**
+
+* **Simple Explanation:**
+* **～くん (*-kun*)**: Used mainly for boys, male children, or male peers/colleagues of equal or lower status.
+* **～ちゃん (*-chan*)**: Used affectionately for babies, young children, pets, or very close female friends/family members.
+
+
+
+---
+
+**5. Asking "How?" or "By what means?" (どうやって)**
+
+* **Simple Explanation:** Use **どうやって** (*dou yatte*) to ask about the method or way something is done ("How do you do [verb]?").
+* **Example:**
+* **Kanji:** どうやって駅へ行きますか。
+* **Without Kanji:** どうやってえきへいきますか。
+* **Romaji:** Dou yatte eki e ikimasu ka.
+* **Translation:** How do you get to the station?

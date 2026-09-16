@@ -1,0 +1,183 @@
+**Lesson 7 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **切ります (きります, kirimasu)** – To cut / To slice
+* **送ります (おくります, okurimasu)** – To send
+* **あげます (あげます, agemasu)** – To give
+* **もらいます (もらいます, moraimasu)** – To receive
+* **貸します (かします, kashimasu)** – To lend
+* **借ります (かります, karimasu)** – To borrow
+* **教えます (おしえます, oshiemasu)** – To teach
+* **習います (ならいます, naraimasu)** – To learn
+* **かけます (かけます, kakemasu)** – To make (a phone call) (*電話をかけます: to make a phone call*)
+* **手 (て, te)** – Hand / Arm
+* **はし (はし, hashi)** – Chopsticks
+* **スプーン (スプーン, supuun)** – Spoon
+* **ナイフ (ナイフ, naifu)** – Knife
+* **フォーク (フォーク, fooku)** – Fork
+* **はさみ (はさみ, hasami)** – Scissors
+* **パソコン (パソコン, pasokon)** – Personal computer / PC
+* **ケータイ (ケータイ, keetai)** – Mobile phone / Cell phone
+* **メール (メール, meeru)** – E-mail
+* **年賀状 (ねんがじょう, nengajou)** – New Year's greeting card
+* **パンチ (パンチ, panchi)** – Hole puncher
+* **ホッチキス (ホッチキス, hotchikisu)** – Stapler
+* **セロテープ (セロテープ, seroteepu)** – Scotch tape / Adhesive tape
+* **消しゴム (けしごむ, keshigomu)** – Eraser
+* **紙 (かみ, kami)** – Paper
+* **花 (はな, hana)** – Flower
+* **シャツ (シャツ, shatsu)** – Shirt
+* **プレゼント (プレゼント, purezento)** – Present / Gift
+* **荷物 (にもつ, nimotsu)** – Baggage / Parcel / Package
+* **お金 (おかね, okane)** – Money
+* **切符 (きっぷ, kippu)** – Ticket
+* **クリスマス (クリスマス, kurisumasu)** – Christmas
+* **父 (ちち, chichi)** – My father
+* **母 (はは, haha)** – My mother
+* **お父さん (おとうさん, otousan)** – Someone else's father
+* **お母さん (おかあさん, okaasan)** – Someone else's mother
+* **もう (もう, mou)** – Already
+* **まだ (まだ, mada)** – Not yet
+* **これから (これから, korekara)** – From now on / Soon
+* **すてきですね (すてきですね, suteki desu ne)** – What a nice...! / How lovely!
+* **いらっしゃい (いらっしゃい, irasshai)** – Welcome!
+* **どうぞおあがりください (どうぞおあがりください, douzo oagari kudasae)** – Please come in
+* **失礼します (しつれいします, shitsurei shimasu)** – Excuse me / May I
+* **[～は] いかがですか ([～は] いかがですか, [~wa] ikaga desu ka)** – Won't you have [~]? / How about [~]?
+* **いただきます (いただきます, itadakimasu)** – Thank you for the meal (said before eating)
+* **ごちそうさまでした (ごちそうさまでした, gochisousama deshta)** – Thank you for the meal (said after eating)
+
+---
+
+**Grammar Concepts & Examples (Lesson 7)**
+
+**1. [Tool/Means] で [Verb] (Method or Instrument Marker)**
+
+* **Simple Explanation:** The particle **で** (*de*) indicates the tool, instrument, medium, or language used to perform an action (e.g., "by means of", "with", or "in").
+* **Example 1:**
+* **Kanji:** はしでご飯を食べます。
+* **Without Kanji:** はしでごはんをたべます。
+* **Romaji:** Hashi de gohan o tabemasu.
+* **Translation:** I eat rice with chopsticks.
+* **Example 2:**
+* **Kanji:** 日本語でレポートを書きます。
+* **Without Kanji:** にほんごでレポートをかきます。
+* **Romaji:** Nihongo de repooto o kakimasu.
+* **Translation:** I write a report in Japanese.
+* **Example 3:**
+* **Kanji:** サミットさんはナイフとフォークで肉を食べます。
+* **Without Kanji:** サミットさんはナイフとフォークでにくをたべます。
+* **Romaji:** Samitto-san wa naifu to fooku de niku o tabemasu.
+* **Translation:** Sumedh eats meat with a knife and fork.
+* **Exception / Special Note:** Do not confuse this tool marker **で** with the location marker **で** from Lesson 6; here, **で** specifies the *means/tool* rather than the venue.
+
+---
+
+**2. "Word/Sentence" は [Language] で 何ですか (Asking for Translation)**
+
+* **Simple Explanation:** Use this pattern to ask how a word or expression is said in another language. The target language takes the particle **で**.
+* **Example 1:**
+* **Kanji:** 「Goodbye」は日本語で何ですか。
+* **Without Kanji:** 「Goodbye」はにほんごでなんですか。
+* **Romaji:** "Goodbye" wa Nihongo de nan desu ka.
+* **Translation:** How do you say "Goodbye" in Japanese?
+* **Example 2:**
+* **Kanji:** 「ありがとう」は英語で何ですか。
+* **Without Kanji:** 「ありがとう」はえいごでなんですか。
+* **Romaji:** "Arigatou" wa Eigo de nan desu ka.
+* **Translation:** How do you say "Arigatou" in English?
+* **Example 3:**
+* **Kanji:** 「お花見」は英語で何ですか。
+* **Without Kanji:** 「おはなみ」はえいごでなんですか。
+* **Romaji:** "Ohanami" wa Eigo de nan desu ka.
+* **Translation:** How do you say "Ohanami" in English?
+* **Exception / Special Note:** Enclose the phrase you are asking about in Japanese quotation marks (**「 」**).
+
+---
+
+**3. [Person] に [Verb] (Action Directed to a Recipient)**
+
+* **Simple Explanation:** Verbs that involve giving or sending something out—such as **あげます** (give), **貸します** (lend), **教えます** (teach), and **かけます** (call)—mark the target person receiving the action with the particle **に**.
+* **Example 1:**
+* **Kanji:** 私は山田さんに花をあげます。
+* **Without Kanji:** わたしはやまださんにはなをあげます。
+* **Romaji:** Watashi wa Yamada-san ni hana o agemasu.
+* **Translation:** I give flowers to Mr. Yamada.
+* **Example 2:**
+* **Kanji:** ジョンさんに日本語を教えます。
+* **Without Kanji:** ジョンさんににほんごをおしえます。
+* **Romaji:** Jon-san ni Nihongo o oshiemasu.
+* **Translation:** I teach Japanese to John.
+* **Example 3:**
+* **Kanji:** サミットさんは友達に電話をかけます。
+* **Without Kanji:** サミットさんはともだちにでんわをかけます。
+* **Romaji:** Samitto-san wa tomodachi ni denwa o kakemasu.
+* **Translation:** Sumedh makes a phone call to a friend.
+* **Exception / Special Note:** When the destination/recipient is a place or organization rather than a person (e.g., a company or school), **へ** (*e*) can be used instead of **に**.
+
+---
+
+**4. [Person] に / から [Verb] (Action Received from a Source)**
+
+* **Simple Explanation:** Verbs that involve receiving or taking in—such as **もらいます** (receive), **借ります** (borrow), and **習います** (learn)—mark the person you receive from with **に** or **から** ("from").
+* **Example 1:**
+* **Kanji:** 私は木村さんに本をもらいました。
+* **Without Kanji:** わたしはきむらさんにほんをもらいました。
+* **Romaji:** Watashi wa Kimura-san ni hon o moraimashita.
+* **Translation:** I received a book from Ms. Kimura.
+* **Example 2:**
+* **Kanji:** 先生から日本語を習います。
+* **Without Kanji:** せんせいからにほんごをならいます。
+* **Romaji:** Sensei kara Nihongo o naraimasu.
+* **Translation:** I learn Japanese from my teacher.
+* **Example 3:**
+* **Kanji:** サミットさんは銀行からお金を借り増した。
+* **Without Kanji:** サミットさんはぎんこうからおかねをかりました。
+* **Romaji:** Samitto-san wa ginkou kara okane o karimashita.
+* **Translation:** Sumedh borrowed money from the bank.
+* **Exception / Special Note:** When receiving or borrowing from an organization, company, or institution (non-person), **から** must be used instead of **に**.
+
+---
+
+**5. もう [Verb-ました] (Already Completed Action)**
+
+* **Simple Explanation:** **もう** (*mou*) means "already". When combined with a past-tense verb (**～ました**), it indicates that an action has been completed.
+* **Example 1:**
+* **Kanji:** もう荷物を送りました。
+* **Without Kanji:** もうにもつをおくりました。
+* **Romaji:** Mou nimotsu o okurimashita.
+* **Translation:** I have already sent the package.
+* **Example 2:**
+* **Kanji:** サミットさんはもう宿題をしました。
+* **Without Kanji:** サミットさんはもうしゅくだいをしました。
+* **Romaji:** Samitto-san wa mou shukudai o shimashita.
+* **Translation:** Sumedh has already done his homework.
+* **Example 3:**
+* **Kanji:** もう昼ご飯を食べましたか。
+* **Without Kanji:** もうひるごはんをたべましたか。
+* **Romaji:** Mou hirugohan o tabemashita ka.
+* **Translation:** Have you eaten lunch already?
+* **Exception / Special Note:** In response to "Have you already done X?", if the answer is negative, reply with **いいえ、まだです** ("No, not yet"). Do **not** use the past negative *～ませんでした* to mean "not yet".
+
+---
+
+**6. Family Vocabulary: Humble vs. Respectful Distinction**
+
+* **Simple Explanation:** In Japanese culture, you use humble terms (**父 / 母**) when speaking about your own family members to outside people, and respectful terms (**お父さん / お母さん**) when referring to someone else's family members.
+* **Example 1:**
+* **Kanji:** 私の父は会社員です。
+* **Without Kanji:** わたしのちちはかいしゃいんです。
+* **Romaji:** Watashi no chichi wa kaishain desu.
+* **Translation:** My father is a company employee.
+* **Example 2:**
+* **Kanji:** サミットさんのお父さんは先生です。
+* **Without Kanji:** サミットさんのおとうさんはせんせいです。
+* **Romaji:** Samitto-san no otousan wa sensei desu.
+* **Translation:** Sumedh's father is a teacher.
+* **Example 3:**
+* **Kanji:** 母にプレゼントをあげます。
+* **Without Kanji:** ははにプレゼントをあげます。
+* **Romaji:** Haha ni purezento o agemasu.
+* **Translation:** I give a present to my mother.
+* **Exception / Special Note:** When speaking directly to your own parents inside your home, you address them respectfully using **お父さん** (*otousan*) and **お母さん** (*okaasan*).

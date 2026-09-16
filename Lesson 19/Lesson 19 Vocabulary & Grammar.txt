@@ -1,0 +1,122 @@
+**Lesson 19 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **あそびます (遊びます, asobimasu)** – To play, enjoy oneself
+* **およぎます (泳ぎます, oyogimasu)** – To swim
+* **むかえます (迎えます, mukaemasu)** – To go to meet, welcome
+* **つかれます (疲れます, tsukaremasu)** – To get tired
+* **だします (出します, dashimasu)** – To send [a letter: 手紙を～]
+* **はいります (入ります, hairimasu)** – To enter [a coffee shop: 喫茶店に～]
+* **でます (出ます, demasu)** – To exit, leave [a coffee shop: 喫茶店を～]
+* **けっこんします (結婚します, kekkon shimasu)** – To marry, get married
+* **かいものします (買い物します, kaimono shimasu)** – To shop, do shopping
+* **しょくじします (食事します, shokuji shimasu)** – To have a meal, dine
+* **さんぽします (散歩します, sanpo shimasu)** – To take a walk [in a park: 公園を～]
+* **たいへん (大変, taihen)** – Hard, tough, severe, awful (used as an na-adjective)
+* **ほしい (欲しい, hoshii)** – Want, desire (something)
+* **ひろい (広い, hiroi)** – Wide, spacious
+* **せまい (狭い, semai)** – Narrow, small (space)
+* **プール (puuru)** – Swimming pool
+* **きわ (きわ $\rightarrow$ かわ, 川, kawa)** – River
+* **びじゅつ (美術, bijutsu)** – Fine arts, art
+* **つり (釣り, tsuri)** – Fishing
+* **スキー (sukii)** – Skiing
+* **しゅうまつ (週末, shumatsu)** – Weekend
+* **[お]しょうがつ ([お]しょうがつ, [o]shougatsu)** – New Year
+* **～ごろ (~ goro)** – Around [time]
+* **なにか (何か, nanika)** – Something, anything
+* **どこか (dokoka)** – Somewhere, anywhere
+* **おなかがすしました ($\rightarrow$ おなかがすきました, onaka ga sukimashita)** – I am hungry
+* **おなかがいっぱいです (onaka ga ippai desu)** – I am full (stomach is full)
+* **のどがかわきました (nodo ga kawakimashita)** – I am thirsty
+* **そうしましょう (Sou shimashou)** – Let's do that (agreement)
+* **ご注文は？ (ごちゅうもんは？, gochuumon wa?)** – May I take your order?
+
+---
+
+**Grammar Concepts & Conjugation Rules (Lesson 19)**
+
+**1. Verb た-form (Past Tense / Informal Past)**
+
+* **Simple Explanation:** The **た-form** follows the exact same sound-change rules as the **て-form** (Lesson 14), except you replace **て/で** with **た/だ**. It is used for informal past tense and serves as the base for several new grammatical patterns.
+* **Conjugation Quick Reference:**
+* **Group 1 (u-verbs):**
+* 買う $\rightarrow$ 買った (*katta*) | 待つ $\rightarrow$ 待った (*matta*) | 帰る $\rightarrow$ 帰った (*kaetta*)
+* 飲む $\rightarrow$ 飲んだ (*nonda*) | 呼ぶ $\rightarrow$ 呼んだ (*yonda*) | 死ぬ $\rightarrow$ 死んだ (*shinda*)
+* 書く $\rightarrow$ 書いた (*kaita*) | 急ぐ $\rightarrow$ 急いだ (*isoida*)
+* 話す $\rightarrow$ 話した (*hanashita*) *(Exception: 行く $\rightarrow$ 行った [itta])*
+
+
+* **Group 2 (ru-verbs):** Drop **る** and add **た** (*e.g., 食べる $\rightarrow$ 食べた*).
+* **Group 3 (Irregular verbs):** 来る $\rightarrow$ 来た (*kita*), する $\rightarrow$ した (*shita*).
+
+
+
+---
+
+**2. Verb た-form + ことがあります (Have the experience of doing...)**
+
+* **Simple Explanation:** Attach **ことがあります** (*koto ga arimasu*) to the **た-form** of a verb to express that you have experienced or done that action at least once in your life ("I have done [verb] before").
+* **Example 1:**
+* **Kanji:** 私は日本へ行ったことがあります。
+* **Without Kanji:** わたしはにほんへいったことがあります。
+* **Romaji:** Watashi wa Nihon e itta koto ga arimasu.
+* **Translation:** I have been to Japan before (literally: I have the experience of going to Japan).
+
+
+* **Example 2:**
+* **Kanji:** 寿司を食べたことがありますか。
+* **Without Kanji:** すしをたべたことがありますか。
+* **Romaji:** Sushi o tabeta koto ga arimasu ka.
+* **Translation:** Have you ever eaten sushi?
+
+
+
+---
+
+**3. Verb た-form + り, Verb た-form + り します (Listing representative actions)**
+
+* **Simple Explanation:** Connect multiple actions using the **た-form + り** structure, ending with **します** (*shimasu*). This implies that you do these actions among others (non-exhaustive list).
+* **Example 1:**
+* **Kanji:** 週末は本を読んだり、音楽を聞いたりします。
+* **Without Kanji:** しゅうまつはほんをよんだり、おんがくをきいたりします。
+* **Romaji:** Shumatsu wa hon o yondori, ongaku o kiitari shimasu.
+* **Translation:** On the weekend, I do things like read books and listen to music.
+
+
+
+---
+
+**4. Adjective / Verb + なります (To become...)**
+
+* **Simple Explanation:** Change a state or quality over time using **なります** (*narimasu*).
+* **い-adjectives:** Drop **い** and add **くなります** (*e.g., 高い $\rightarrow$ 高くなります*).
+* **な-adjectives & Nouns:** Drop **な** (or add directly) and add **になります** (*e.g., 元気 $\rightarrow$ 元気になります; 学生 $\rightarrow$ 学生になります*).
+
+
+* **Example 1 (い-adj):**
+* **Kanji:** 寒くなりました。
+* **Without Kanji:** さむくなりました。
+* **Romaji:** Samuku narimashita.
+* **Translation:** It has become cold.
+
+
+* **Example 2 (な-adj / Noun):**
+* **Kanji:** 部屋がきれいになりました。
+* **Without Kanji:** へやがきれいになりました。
+* **Romaji:** Heya ga kirei ni narimashita.
+* **Translation:** The room has become clean.
+
+
+
+---
+
+**5. Noun + が 欲しいです (Wanting an object)**
+
+* **Simple Explanation:** Use **[Noun] が 欲しいです** (*ga hoshii desu*) to state that you want a physical object. *(Note: For wanting to do an action, use Verb たいです).*
+* **Example 1:**
+* **Kanji:** 私は新しい車が欲しいです。
+* **Without Kanji:** わたしはあたらしいくるまがほしいです。
+* **Romaji:** Watashi wa atarashii kuruma ga hoshii desu.
+* **Translation:** I want a new car.

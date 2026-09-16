@@ -1,0 +1,182 @@
+**Lesson 10 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **あります (あります, arimasu)** – To exist / To be / To have (non-living things)
+* **います (います, imasu)** – To exist / To be / To have (living things: people, animals)
+* **いろいろ[な] (いろいろ[な], iroiro [na])** – Various / Diverse
+* **男の人 (おとこのひと, otoko no hito)** – Man
+* **女の人 (おんなのひと, onna no hito)** – Woman
+* **男の子 (おとこのこ, otoko no ko)** – Boy
+* **女の子 (おんなのこ, onna no ko)** – Girl
+* **犬 (いぬ, inu)** – Dog
+* **猫 (ねこ, neko)** – Cat
+* **パンダ (パンダ, panda)** – Panda
+* **ゾウ (ゾウ, zou)** – Elephant
+* **木 (き, ki)** – Tree / Wood
+* **物 (もの, mono)** – Thing / Object
+* **電池 (でんち, denchi)** – Battery
+* **箱 (はこ, hako)** – Box
+* **スイッチ (スイッチ, suitchi)** – Switch
+* **冷蔵庫 (れいぞうこ, reizouko)** – Refrigerator
+* **テーブル (テーブル, teeburu)** – Table
+* **ベッド (ベッド, beddo)** – Bed
+* **棚 (たな, tana)** – Shelf / Bookshelf
+* **ドア (ドア, doa)** – Door
+* **窓 (まど, mado)** – Window
+* **ポスト (ポスト, posuto)** – Postbox / Mailbox
+* **ビル (ビル, biru)** – Building
+* **コンビニ (コンビニ, konbini)** – Convenience store
+* **ガソリンスタンド (ガソリンスタンド, gasorin sutando)** – Gas station
+* **乗り場 (のりば, noriba)** – Taxi stand / Bus stop / Platform
+* **県 (けん, ken)** – Prefecture
+* **上 (うえ, ue)** – Top / Above / On
+* **下 (した, shita)** – Under / Below / Bottom
+* **前 (まえ, mae)** – Front / In front of
+* **後ろ (うしろ, ushiro)** – Back / Behind
+* **右 (みぎ, migi)** – Right (side)
+* **左 (ひだり, hidari)** – Left (side)
+* **中 (なか, naka)** – Inside / In
+* **外 (そと, soto)** – Outside
+* **隣 (となり, tonari)** – Next to / Neighboring
+* **近く (ちかく, chikaku)** – Near / Vicinity
+* **間 (あいだ, aida)** – Between
+* **～や～[など] (~ya ~[nado])** – ~ and ~ [among other things]
+* **一番 (いちばん, ichiban)** – Most / Best (*いちばん 上: top-most*)
+* **奥 (おく, oku)** – Back / Innermost part
+* **チリソース (チリソース, chiri soosu)** – Chili sauce
+* **東京ディズニーランド (とうきょうディズニーランド, Toukyou Dizuniirando)** – Tokyo Disneyland
+
+---
+
+**Grammar Concepts & Examples (Lesson 10)**
+
+**1. Existence Verbs: あります vs. います**
+
+* **Simple Explanation:** Japanese uses two different verbs to express existence ("there is / there are"). Use **あります** for non-living objects, plants, and abstract concepts. Use **います** for living beings that move independently, such as humans and animals.
+* **Example 1:**
+* **Kanji:** 部屋にテレビがあります。
+* **Without Kanji:** へやにテレビがあります。
+* **Romaji:** Heya ni terebi ga arimasu.
+* **Translation:** There is a TV in the room.
+* **Example 2:**
+* **Kanji:** 庭に犬がいます。
+* **Without Kanji:** にわにいぬがいます。
+* **Romaji:** Niwa ni inu ga imasu.
+* **Translation:** There is a dog in the garden.
+* **Example 3:**
+* **Kanji:** 事務所にサミットさんがいます。
+* **Without Kanji:** じむしょにサミットさんがいます。
+* **Romaji:** Jimusho ni Samitto-san ga imasu.
+* **Translation:** Sumedh is in the office.
+* **Exception / Special Note:** Even though plants and trees are biological living things, they use **あります** because they cannot move on their own.
+
+---
+
+**2. [Place] に [Noun] が あります / います (Stating What Exists at a Location)**
+
+* **Simple Explanation:** Use this structure when introducing new information about what or who is present in a specific place. Mark the location with **に** (*ni*) and the existing item or person with **が** (*ga*).
+* **Example 1:**
+* **Kanji:** 机の上に本があります。
+* **Without Kanji:** つくえのうえにほんがあります。
+* **Romaji:** Tsukue no ue ni hon ga arimasu.
+* **Translation:** There is a book on the desk.
+* **Example 2:**
+* **Kanji:** 公園に男の子がいます。
+* **Without Kanji:** こうえんにおとこのこがいます。
+* **Romaji:** Kouen ni otoko no ko ga imasu.
+* **Translation:** There is a boy in the park.
+* **Example 3:**
+* **Kanji:** 教室にサミットさんがいます。
+* **Without Kanji:** きょうしつにサミットさんがいます。
+* **Romaji:** Kyoushitsu ni Samitto-san ga imasu.
+* **Translation:** Sumedh is in the classroom.
+* **Exception / Special Note:** When asking what is at a location, use **なにが ありますか** for objects or **だれが いますか** for people.
+
+---
+
+**3. [Noun] は [Place] に あります / います (Stating Where a Specific Thing/Person Is)**
+
+* **Simple Explanation:** Use this structure when the noun is already known or established as the topic, and you want to state its location. The noun is marked with **は** (*wa*), followed by the place marked with **に** (*ni*).
+* **Example 1:**
+* **Kanji:** 本は机の上にあります。
+* **Without Kanji:** ほんはつくえのうえにあります。
+* **Romaji:** Hon wa tsukue no ue ni arimasu.
+* **Translation:** The book is on the desk.
+* **Example 2:**
+* **Kanji:** サミットさんは受付にいます。
+* **Without Kanji:** サミットさんはうけつけにいます。
+* **Romaji:** Samitto-san wa uketsuke ni imasu.
+* **Translation:** Sumedh is at the reception desk.
+* **Example 3:**
+* **Kanji:** 鍵はカバンの中にあります。
+* **Without Kanji:** かぎはカバンのなかにあります。
+* **Romaji:** Kagi wa kaban no naka ni arimasu.
+* **Translation:** The key is inside the bag.
+* **Exception / Special Note:** To ask where a known noun is, use **[Noun] は どこに ありますか / いますか** (or simply **[Noun] は どこですか**).
+
+---
+
+**4. Location Nouns: [Noun] の [Position]**
+
+* **Simple Explanation:** Spatial position words (like **上** - top, **下** - under, **前** - front, **後ろ** - back, **中** - inside, **外** - outside, **隣** - next to) act as nouns. Connect them to a reference object using **の** (*no*).
+* **Example 1:**
+* **Kanji:** 箱の中に古い写真があります。
+* **Without Kanji:** はこのなかにふるいしゃしんがあります。
+* **Romaji:** Hako no naka ni furui shashin ga arimasu.
+* **Translation:** There are old photos inside the box.
+* **Example 2:**
+* **Kanji:** 銀行はスーパーの隣にあります。
+* **Without Kanji:** ぎんこうはスーパーのとなりにあります。
+* **Romaji:** Ginkou wa suupaa no tonari ni arimasu.
+* **Translation:** The bank is next to the supermarket.
+* **Example 3:**
+* **Kanji:** サミットさんは車の近くにいます。
+* **Without Kanji:** サミットさんはくるまのちかくにいます。
+* **Romaji:** Samitto-san wa kuruma no chikaku ni imasu.
+* **Translation:** Sumedh is near the car.
+* **Exception / Special Note:** **隣** (*tonari*) strictly means directly adjacent and next to an object of similar type/category. For general proximity without touching, use **近く** (*chikaku*).
+
+---
+
+**5. [Noun 1] と [Noun 2] の あいだ (Between Noun 1 and Noun 2)**
+
+* **Simple Explanation:** To express that something is positioned between two specific reference landmarks, join the two nouns with **と** (*to*) and add **の あいだ** (*no aida*).
+* **Example 1:**
+* **Kanji:** 本屋と花屋の間にポストがあります。
+* **Without Kanji:** ほんやとはなやのあいだにポストがあります。
+* **Romaji:** Hon'ya to hanaya no aida ni posuto ga arimasu.
+* **Translation:** There is a mailbox between the bookstore and the flower shop.
+* **Example 2:**
+* **Kanji:** サミットさんは田中さんとサントスさんの間にいます。
+* **Without Kanji:** サミットさんはたなかさんとサントスさんのあいだにいます。
+* **Romaji:** Samitto-san wa Tanaka-san to Santosu-san no aida ni imasu.
+* **Translation:** Sumedh is between Mr. Tanaka and Mr. Santos.
+* **Example 3:**
+* **Kanji:** コンビニは銀行と病院の間にあります。
+* **Without Kanji:** コンビニはぎんこうとびょういんのあいだにあります。
+* **Romaji:** Konbini wa ginkou to byouin no aida ni arimasu.
+* **Translation:** The convenience store is between the bank and the hospital.
+* **Exception / Special Note:** Ensure the particle sequence is always **[Noun 1] と [Noun 2] の あいだ に**.
+
+---
+
+**6. [Noun 1] や [Noun 2] [など] (Non-Exhaustive Listing: "N1, N2, etc.")**
+
+* **Simple Explanation:** While **と** (*to*) lists every single item exhaustively, **や** (*ya*) names two or three representative examples out of a larger set ("things like N1 and N2"). You can optionally place **など** (*nado*) after the final noun to explicitly mean "and so on".
+* **Example 1:**
+* **Kanji:** 箱の中に手紙や写真があります。
+* **Without Kanji:** はこのなかにてがみやしゃしんがあります。
+* **Romaji:** Hako no naka ni tegami ya shashin ga arimasu.
+* **Translation:** Inside the box, there are letters, photos, and such.
+* **Example 2:**
+* **Kanji:** 部屋にベッドやテーブルなどがあります。
+* **Without Kanji:** へやにベッドやテーブルなどがあります。
+* **Romaji:** Heya ni beddo ya teeburu nado ga arimasu.
+* **Translation:** In the room, there are things like a bed and a table.
+* **Example 3:**
+* **Kanji:** サミットさんは本やノートなどを買いました。
+* **Without Kanji:** サミットさんはほんやノートなどをかいました。
+* **Romaji:** Samitto-san wa hon ya nooto nado o kaimashita.
+* **Translation:** Sumedh bought books, notebooks, and other things.
+* **Exception / Special Note:** Never mix **と** and **や** in the same simple series—use **と** when naming everything completely, and **や** when giving incomplete examples.

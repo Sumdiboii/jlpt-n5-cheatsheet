@@ -1,0 +1,133 @@
+**Lesson 17 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **おぼえます (覚えます, oboemasu)** – To memorize, learn
+* **わすれます (忘れます, wasuremasu)** – To forget, leave behind
+* **なくします (無くします, nakushimasu)** – To lose (something)
+* **はらいます (払います, haraimasu)** – To pay
+* **かえします (返します, kaeshimasu)** – To give back, return
+* **でかけます (出かけます, dekakemasu)** – To go out
+* **ぬぎます (脱ぐます $\rightarrow$ 脱ぎます, nugimasu)** – To take off (clothes, shoes)
+* **もってきます (持って来ます, mottekimasu)** – To bring (an inanimate thing)
+* **もっていきます (持って行きます, motte ikimasu)** – To take (an inanimate thing)
+* **しんぱいします (心配します, shinpai shimasu)** – To worry
+* **ざんぎょうします (残業します, zangyou shimasu)** – To work overtime
+* **しゅっちょうします (出張します, shucchou shimasu)** – To go on a business trip
+* **たいせつ (大切, taisetsu)** – Important, precious
+* **だいじょうぶ (大丈夫, daijoubu)** – All right, okay
+* **あぶない (危ない, abunai)** – Dangerous
+* **きんえん (禁煙, kin'en)** – No smoking
+* **けんこうほけんしょう (健康保険証, kenkou hokenshou)** – Health insurance card
+* **ねつ (熱, netsu)** – Fever
+* **びょうき (病気, byouki)** – Illness, disease
+* **くすり (薬, kusuri)** – Medicine
+* **[お]ふろ ([お]ふろ, [o]furo)** – Bath
+* **うわ着 (うわぎ, uwagi)** – Jacket, outerwear
+* **したぎ (下着, shitagi)** – Underwear
+* **～から (~kara)** – Because ~ (expressing reason)
+* **どうしましたか (Dou shimashita ka)** – What's the matter? / What happened?
+* **のど (nodo)** – Throat
+* **おだいじに (お大事に, odaiji ni)** – Take care of yourself (said to someone who is ill)
+
+---
+
+**Grammar Concepts & Conjugation Rules (Lesson 17)**
+
+**1. Verb ない-form (Dictionary Form $\rightarrow$ ない-form / Negative Form)**
+
+* **Simple Explanation:** The **ない-form** (informal negative) is essential for constructing several critical grammatical patterns in Minna no Nihongo.
+* **Group 1 (u-verbs / 五段):** Change the final **u-sound** column to the corresponding **a-sound** column and add **ない**. *(Exception: Verbs ending in う change to わない).*
+* *e.g., 書きます (kaku) $\rightarrow$ 書かない (kakanai)*
+* *e.g., 飲みます (nomu) $\rightarrow$ 飲まない (nomanai)*
+* *e.g., 会います (au) $\rightarrow$ 会わない (awanai)*
+
+
+* **Group 2 (ru-verbs / 一段):** Drop **る** and add **ない**.
+* *e.g., 食べます (taberu) $\rightarrow$ 食べない (tabenai)*
+* *e.g., 見ます (miru) $\rightarrow$ 見ない (minai)*
+
+
+* **Group 3 (Irregular verbs):**
+* **きます (kuru) $\rightarrow$ こない (konai)**
+* **します (suru) $\rightarrow$ しない (shinai)**
+
+
+
+---
+
+**2. Verb ない-form + ないでください (Please do NOT do...)**
+
+* **Simple Explanation:** Attach **ないでください** (*naide kudasai*) to the **ない-form** of a verb to make a polite request asking someone **not** to do an action.
+* **Example 1:**
+* **Kanji:** ここで写真を撮らないでください。
+* **Without Kanji:** ここでしゃしんをとらないでください。
+* **Romaji:** Koko de shashin o toranai de kudasai.
+* **Translation:** Please do not take photographs here.
+
+
+* **Example 2:**
+* **Kanji:** ここに車を止めないでください。
+* **Without Kanji:** ここにくるまをとめないでください。
+* **Romaji:** Koko ni kuruma o tomenai de kudasai.
+* **Translation:** Please do not park your car here.
+
+
+
+---
+
+**3. Verb ない-form + なければなりません (Must do...)**
+
+* **Simple Explanation:** Replace the **い** in the **ない-form** with **ければなりません** (*nakereba narimasen*) to state that you **must** perform an action (obligation/necessity).
+* **Example 1:**
+* **Kanji:** 毎朝薬を飲まなければなりません。
+* **Without Kanji:** まいあさくすりをのまなければなりません。
+* **Romaji:** Maiasa kusuri o nomanakereba narimasen.
+* **Translation:** I must take medicine every morning.
+
+
+* **Example 2:**
+* **Kanji:** 明日病院へ行かなければなりません。
+* **Without Kanji:** あしたびょういんへいかなければなりません。
+* **Romaji:** Ashita byouin e ikanakereba narimasen.
+* **Translation:** I must go to the hospital tomorrow.
+
+
+
+---
+
+**4. Verb ない-form + なくてもいいです (You do not have to do...)**
+
+* **Simple Explanation:** Replace the **い** in the **ない-form** with **なくてもいいです** (*nakute mo ii desu*) to state that you **do not need to / do not have to** do an action.
+* **Example 1:**
+* **Kanji:** 明日来なくてもいいです。
+* **Without Kanji:** あしたこなくてもいいです。
+* **Romaji:** Ashita konakute mo ii desu.
+* **Translation:** You do not have to come tomorrow.
+
+
+* **Example 2:**
+* **Kanji:** 今日は残業しなくてもいいです。
+* **Without Kanji:** きょうはざんぎょうしなくてもいいです。
+* **Romaji:** Kyou wa zangyou shinakute mo ii desu.
+* **Translation:** You do not have to work overtime today.
+
+
+
+---
+
+**5. Noun / Sentence + から (Expressing Reasons)**
+
+* **Simple Explanation:** Placing **から** (*kara*) at the end of a clause or reason explains **why** something is done ("Because..., [Result]").
+* **Example 1:**
+* **Kanji:** 時間がありませんから、急ぎます。
+* **Without Kanji:** じかんがありませんから、いそぎます。
+* **Romaji:** Jikan ga arimasen kara, isogimasu.
+* **Translation:** Because I do not have time, I will hurry.
+
+
+* **Example 2:**
+* **Kanji:** 熱がありますから、会社を休みます。
+* **Without Kanji:** ねつがありますから、かいしゃをやすみます。
+* **Romaji:** Netsu ga arimasu kara, kaisha o yasumimasu.
+* **Translation:** Because I have a fever, I will take a day off from work.

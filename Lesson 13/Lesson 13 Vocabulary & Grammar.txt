@@ -1,0 +1,138 @@
+**Lesson 13 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **あそびます (遊びます, asobimasu)** – To play, to enjoy oneself, to visit
+* **およぎます (泳ぎます, oyogimasu)** – To swim
+* **むかえます (迎えます, mukaemasu)** – To go to meet, to welcome
+* **つかれました (疲れました, tsukaremashita)** – Got tired
+* **けっこんします (結婚します, kekkon shimasu)** – To get married
+* **かいものします (買い物します, kaimono shimasu)** – To shop, to do shopping
+* **しょくじします (食事します, shokuji shimasu)** – To have a meal
+* **さんぽします (散歩します, sanpo shimasu)** – To take a walk [in a park: 公園を～]
+* **たいへん[な] (大変[な], taihen[na])** – Hard, tough, severe
+* **ほしい (欲しい, hoshii)** – Want (a thing/object)
+* **ひろい (広い, hiroi)** – Wide, spacious
+* **せまい (狭い, semai)** – Narrow, small (room)
+* **プール (puuru)** – Swimming pool
+* **かわ (川, kawa)** – River
+* **びじゅつ (美術, bijutsu)** – Fine arts
+* **つり (釣り, tsuri)** – Fishing (つりをします: to fish)
+* **スキー (sukii)** – Skiing (スキーをします: to ski)
+* **しゅうまつ (週末, shuumatsu)** – Weekend
+* **[お]しょうがつ ([お]正月, [o]shougatsu)** – New Year's Day
+* **～ごろ (~goro)** – About ~ (used with time)
+* **なにか (何か, nanika)** – Something
+* **どこか (dokoka)** – Somewhere, some place
+* **おなかが すきました (onaka ga sukimashita)** – (I am) hungry
+* **おなかが いっぱいです (onaka ga ippai desu)** – (I am) full
+* **のどが かわきました (nodo ga kawakimashita)** – (I am) thirsty
+* **そうしましょう (sou shimashou)** – Let's do that (agreeing to a suggestion)
+
+---
+
+**Grammar Concepts & Examples (Lesson 13)**
+
+**1. Noun が ほしいです (Expressing Desire for an Object)**
+
+* **Simple Explanation:** Use **[Noun] が ほしいです** to say "I want [Noun]". The particle **が** marks the object you want. Negation becomes **欲しくないです** (*hoshikunai desu*). Do not use this to express someone else's desires or to offer something directly to a superior.
+* **Example 1:**
+* **Kanji:** 私は新しい車が欲しいです。
+* **Without Kanji:** わたしはあたらしいくるまがほしいです。
+* **Romaji:** Watashi wa atarashii kuruma ga hoshii desu.
+* **Translation:** I want a new car.
+
+
+* **Example 2:**
+* **Kanji:** 今何がいちばん欲しいですか。
+* **Without Kanji:** いまなにがいちばんほしいですか。
+* **Romaji:** Ima nani ga ichiban hoshii desu ka.
+* **Translation:** What do you want most right now?
+
+
+* **Example 3:**
+* **Kanji:** サミットさんは広い部屋が欲しいです。
+* **Without Kanji:** サミットさんはひろいへやがほしいです。
+* **Romaji:** Samitto-san wa hiroi heya ga hoshii desu.
+* **Translation:** Sumedh wants a spacious room.
+
+
+
+---
+
+**2. Verb (Stem) + たいです (Expressing Desire to Do an Action)**
+
+* **Simple Explanation:** Take a verb in its **ます** form, drop **ます**, and add **たいです** to mean "I want to [do verb]". The object particle **を** can either remain **を** or change to **が**. It conjugates like an *I-adjective* (**～たくないです** for "don't want to do").
+* **Example 1:**
+* **Kanji:** 沖縄へ行きたいです。
+* **Without Kanji:** おきなわへいきたいです。
+* **Romaji:** Okinawa e ikitai desu.
+* **Translation:** I want to go to Okinawa.
+
+
+* **Example 2:**
+* **Kanji:** 水を飲みたいです。/ 水が飲みたいです。
+* **Without Kanji:** みずをのみたいです。/ みずがのみたいです。
+* **Romaji:** Mizu o nomitai desu. / Mizu ga nomitai desu.
+* **Translation:** I want to drink water.
+
+
+* **Example 3:**
+* **Kanji:** 今日は何もしたくないです。
+* **Without Kanji:** きょうはなにもしたくないです。
+* **Romaji:** Kyou wa nani mo shitakunai desu.
+* **Translation:** I don't want to do anything today.
+
+
+
+---
+
+**3. Place へ [Verb-Stem / Noun] に 行きます / 来ます / 帰ります (Purpose of Movement)**
+
+* **Simple Explanation:** To state the *purpose* of moving to a destination, place the **verb stem** (or a event/activity noun) followed by the particle **に** right before motion verbs like **行きます**, **来ます**, or **帰ります**.
+* **Example 1 (Verb Stem + に):**
+* **Kanji:** デパートへ服を買いに行きます。
+* **Without Kanji:** デパートへふくをかいにいきます。
+* **Romaji:** Depaato e fuku o kai ni ikimasu.
+* **Translation:** I am going to the department store to buy clothes.
+
+
+* **Example 2 (Noun + に):**
+* **Kanji:** 日本へ勉強に来ました。
+* **Without Kanji:** にほんへべんきょうにきました。
+* **Romaji:** Nihon e benkyou ni kimashita.
+* **Translation:** I came to Japan to study.
+
+
+* **Example 3:**
+* **Kanji:** 川へ釣りに行きます。
+* **Without Kanji:** かわへつりにいきます。
+* **Romaji:** Kawa e tsuri ni ikimasu.
+* **Translation:** I am going to the river to fish.
+
+
+
+---
+
+**4. どこか / なにか (Indefinite Place / Object)**
+
+* **Simple Explanation:** **どこか** means "somewhere" and **なにか** means "something". Particles **へ** (to) and **を** (object) can be dropped when following **どこか** or **なにか**.
+* **Example 1:**
+* **Kanji:** どこかへ行きましたか。
+* **Without Kanji:** どこかへいきましたか。
+* **Romaji:** Dokoka (e) ikimashitaka.
+* **Translation:** Did you go somewhere?
+
+
+* **Example 2:**
+* **Kanji:** おなかがすきましたから、何か食べたいです。
+* **Without Kanji:** おなかがすきましたから、なにかたべたいです。
+* **Romaji:** Onaka ga sukimashita kara, nanika tabetai desu.
+* **Translation:** Because I became hungry, I want to eat something.
+
+
+* **Example 3:**
+* **Kanji:** のどがかわきましたから、何か飲みましょう。
+* **Without Kanji:** のどがかわきましたから、なにかのみましょう。
+* **Romaji:** Nodo ga kawakimashita kara, nanika nomishou.
+* **Translation:** Because I got thirsty, let's drink something.

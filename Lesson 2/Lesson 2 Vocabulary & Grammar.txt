@@ -1,0 +1,184 @@
+**Lesson 2 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **これ (kore)** – This / This thing here (close to the speaker)
+* **それ (sore)** – That / That thing near you (close to the listener)
+* **あれ (are)** – That / That thing over there (away from both)
+* **この～ (kono ~)** – This ~ here
+* **その～ (sono ~)** – That ~ near you
+* **あの～ (ano ~)** – That ~ over there
+* **本 (ほん, hon)** – Book
+* **辞書 (じしょ, jisho)** – Dictionary
+* **雑誌 (ざっし, zasshi)** – Magazine
+* **新聞 (しんぶん, shinbun)** – Newspaper
+* **ノート (nooto)** – Notebook
+* **手帳 (てちょう, techou)** – Pocket notebook / Diary
+* **名刺 (めいし, meishi)** – Business card
+* **鉛筆 (えんぴつ, enpitsu)** – Pencil
+* **ボールペン (boorupen)** – Ballpoint pen
+* **シャープペンシル (shaapu-penshiru)** – Mechanical pencil
+* **鍵 (かぎ, kagi)** – Key
+* **時計 (とけい, tokei)** – Watch / Clock
+* **傘 (かさ, kasa)** – Umbrella
+* **鞄 (かばん, kaban)** – Bag / Briefcase
+* **テレビ (terebi)** – Television
+* **ラジオ (rajio)** – Radio
+* **カメラ (kamera)** – Camera
+* **コンピューター (konpyuutaa)** – Computer
+* **自動車 (じどうしゃ, jidosha)** – Car / Automobile
+* **机 (つくえ, tsukue)** – Desk
+* **椅子 (いす, isu)** – Chair
+* **チョコレート (chokoreeto)** – Chocolate
+* **コーヒー (koohii)** – Coffee
+* **お土産 (おみやげ, omiyage)** – Souvenir / Gift
+* **英語 (えいご, eigo)** – English language
+* **日本語 (にほんご, nihongo)** – Japanese language
+* **何 (なん, nan)** – What
+* **いくら (ikura)** – How much (price)
+* **～階 (～かい / ～がい, ~kai / ~gai)** – Floor counter
+* **違います (ちがいます, chigaimasu)** – No, it isn't / You are wrong
+* **そうですか (sou desu ka)** – I see / Is that so?
+* **あのう (anou)** – Well... (hesitation)
+* **ほんの気持ちです (ほんのきもちです, honno kimochi desu)** – It's a token of my gratitude
+* **どうぞ (douzo)** – Please / Here you are
+
+---
+
+**Grammar Concepts & Examples (Lesson 2)**
+
+**1. これ / それ / あれ (Pronouns for "This" and "That")**
+
+* **Simple Explanation:** These are standalone pronouns used to point at things without saying their actual names. **これ** is close to you (the speaker), **それ** is close to the person you are talking to (the listener), and **あれ** is far away from both of you.
+* **Example 1:**
+* **Kanji:** これは本です。
+* **Without Kanji:** これはほんです。
+* **Romaji:** Kore wa hon desu.
+* **Translation:** This is a book.
+
+
+* **Example 2:**
+* **Kanji:** それは辞書ですか。
+* **Without Kanji:** それはじしょですか。
+* **Romaji:** Sore wa jisho desu ka.
+* **Translation:** Is that a dictionary? (near you)
+
+
+* **Example 3:**
+* **Kanji / Kana:** あれはコンピューターです。
+* **Romaji:** Are wa konpyuutaa desu.
+* **Translation:** That over there is a computer.
+
+
+* **Exception / Special Note:** Never attach a physical noun directly after these three pronouns (e.g., *kore hon* is completely ungrammatical). You must use the noun modifiers below instead.
+
+---
+
+**2. この～ / その～ / あの～ (Adjectives for "This ~" and "That ~")**
+
+* **Simple Explanation:** Unlike *kore/sore/are*, these words **must** be glued directly in front of a physical object noun to modify it (e.g., *this* book, *that* car). They follow the exact same distance rules: close to speaker, close to listener, far from both.
+* **Example 1:**
+* **Kanji:** この本はわたしの本です。
+* **Without Kanji:** このほんはわたしのほんです。
+* **Romaji:** Kono hon wa watashi no hon desu.
+* **Translation:** This book is my book.
+
+
+* **Example 2:**
+* **Kanji:** その傘はだれのですか。
+* **Without Kanji:** そのかさはだれのですか。
+* **Romaji:** Sono kasa wa dare no desu ka.
+* **Translation:** Whose umbrella is that? (near you)
+
+
+* **Example 3:**
+* **Kanji:** あの車は日本のです。
+* **Without Kanji:** あのくるまはにほんのです。
+* **Romaji:** Ano kuruma wa nihon no desu.
+* **Translation:** That car over there is Japanese.
+
+
+* **Exception / Special Note:** Always ensure a noun immediately follows *kono*, *sono*, or *ano*. They cannot stand alone as subjects by themselves.
+
+---
+
+**3. [Noun 1] の [Noun 2] (Possession and Origin)**
+
+* **Simple Explanation:** The particle **の** links two nouns together. In Lesson 2, it shows **who owns** an item, or **what country/company made** it.
+* **Example 1:**
+* **Kanji:** これはわたしの鞄です。
+* **Without Kanji:** これはわたしのかばんです。
+* **Romaji:** Kore wa watashi no kaban desu.
+* **Translation:** This is my bag.
+
+
+* **Example 2:**
+* **Kanji:** これはアメリカのコンピューターです。
+* **Without Kanji:** これはアメリカのコンピューターです。
+* **Romaji:** Kore wa amerika no konpyuutaa desu.
+* **Translation:** This is an American computer. *(Lit: Computer of America)*
+
+
+* **Example 3:**
+* **Kanji:** あれは日本語の雑誌です。
+* **Without Kanji:** あれはにほんごのざっしです。
+* **Romaji:** Are wa nihongo no zasshi desu.
+* **Translation:** That over there is a Japanese language magazine.
+
+
+* **Exception / Special Note:** The word order is reversed compared to English possessives and descriptors. The owner or origin always comes *first*, followed by **の**, followed by the object itself.
+
+---
+
+**4. 何の [Noun] (What kind of / What is [Noun] about?)**
+
+* **Simple Explanation:** By combining the question word **何** (*nan*) with the particle **の** and a noun, you can ask what category, subject, or material an object belongs to.
+* **Example 1:**
+* **Kanji:** これはなんの本ですか。
+* **Without Kanji:** これはなんのほんですか。
+* **Romaji:** Kore wa nan no hon desu ka.
+* **Translation:** What kind of book is this? / What is this book about?
+
+
+* **Example 2:**
+* **Kanji:** それはなんの雑誌ですか。
+* **Without Kanji:** それはなんのざっしですか。
+* **Romaji:** Sore wa nan no zasshi desu ka.
+* **Translation:** What kind of magazine is that?
+
+
+* **Example 3:**
+* **Kanji:** これはなんの鍵ですか。
+* **Without Kanji:** これはなんのかぎですか。
+* **Romaji:** Kore wa nan no kagi desu ka.
+* **Translation:** What is this key for?
+
+
+* **Exception / Special Note:** When **何** is followed by a sound starting with the 'n' or 't' columns (like *no*), it is always pronounced **nan**, never *nani*.
+
+---
+
+**5. ～の です (Possessive Pronoun Replacement / "It belongs to ~")**
+
+* **Simple Explanation:** You can use **の** at the end of a sentence attached to a person or place to mean "[Noun]’s thing," allowing you to drop repeating the object noun.
+* **Example 1:**
+* **Kanji:** この本はわたしの**です**。
+* **Without Kanji:** このほんはわたしの**です**。
+* **Romaji:** Kono hon wa watashi no desu.
+* **Translation:** This book is **mine**.
+
+
+* **Example 2:**
+* **Kanji:** その傘はサミットさんの**です**か。
+* **Without Kanji:** そのかさはサミットさんの**です**か。
+* **Romaji:** Sono kasa wa Samitto-san no desu ka.
+* **Translation:** Is that umbrella **Sumedh's**?
+
+
+* **Example 3:**
+* **Kanji / Kana:** いいえ、わたしのではありません。
+* **Romaji:** Iie, watashi no de wa arimasen.
+* **Translation:** No, it is not **mine**.
+
+
+* **Exception / Special Note:** The trailing noun is completely omitted because the context makes it obvious what item is being discussed, mirroring English possessive pronouns (mine, yours, his).

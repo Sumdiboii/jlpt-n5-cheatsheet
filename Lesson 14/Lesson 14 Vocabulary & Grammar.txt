@@ -1,0 +1,169 @@
+**Lesson 14 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **つけます (つけます, tsukemasu)** – To turn on (lights, power)
+* **けします (消します, keshimasu)** – To turn off, extinguish
+* **あけます (開けます, akemasu)** – To open
+* **しめます (閉めます, shimemasu)** – To close
+* **いそぎます (急ぎます, isogimasu)** – To hurry
+* **まちます (待ちます, machimasu)** – To wait
+* **もちます (持ちます, mochimasu)** – To hold, carry
+* **とります (取ります, torimasu)** – To take, pass (something)
+* **てつだいます (手伝います, tetsudaimasu)** – To help (with a task)
+* **よびます (呼びます, yobimasu)** – To call (a taxi, a person)
+* **はなします (話します, hanashimasu)** – To speak, talk
+* **つかいます (使います, tsukaimasu)** – To use
+* **とめます (止めます, tomemasu)** – To stop, park
+* **みせます (見せます, misemasu)** – To show
+* **おしえます (教えます, oshiemasu)** – To tell (an address), teach
+* **すわります (座ります, suwarimasu)** – To sit down
+* **たちます (立ちます, tachimasu)** – To stand up
+* **はいります (入ります, hairimasu)** – To enter [a cafe: 喫茶店に～]
+* **でます (出ます, demasu)** – To exit, leave [a cafe: 喫茶店を～]
+* **ふります (降ります, furimasu)** – To rain [rain falls: 雨が～]
+* **コピーします (コピーします, kopiishimasu)** – To copy
+* **でんき (電気, denki)** – Electricity, light
+* **エアコン (eakon)** – Air conditioner
+* **パスポート (pasupooto)** – Passport
+* **なまえ (名前, namae)** – Name
+* **じゅうしょ (住所, juusho)** – Address
+* **ちず (地図, chizu)** – Map
+* **しお (塩, shio)** – Salt
+* **さとう (砂糖, satou)** – Sugar
+* **もんだい (問題, mondai)** – Problem, question
+* **こたえ (答え, kotae)** – Answer
+* **よみかた (読み方, yomikata)** – How to read
+* **～かた (～方, ~kata)** – How to ~, way of ~ing
+* **まっすぐ (massugu)** – Straight ahead
+* **ゆっくり (yukkuri)** – Slowly, leisurely
+* **すぐ (sugu)** – Immediately, right away
+* **また (mata)** – Again
+* **あとで (atode)** – Later
+* **もう すこし (もう少し, mou sukoshi)** – A little more
+* **もう ～ (mou ~)** – ~ more, another ~ (e.g., もう 一人 - one more person)
+* **さあ (saa)** – Right / Well (prompting an action)
+* **あれ？ (are?)** – Oh? / Eh? (expressing surprise)
+
+---
+
+**Grammar Concepts & Conjugation Rules (Lesson 14)**
+
+**Verb Groups & Te-Form (て形) Conjugation Rules**
+
+* **Group 1 ( u-verbs / 五段):** Drop **ます**, look at the last syllable before **ます**:
+* **い, ち, り** $\rightarrow$ **った** $\rightarrow$ **て** (*e.g., 買います $\rightarrow$ 買って, 待ちます $\rightarrow$ 待って, 帰ります $\rightarrow$ 帰って*)
+* **み, び, に** $\rightarrow$ **んだ** $\rightarrow$ **んで** (*e.g., 飲みます $\rightarrow$ 飲んで, 呼びます $\rightarrow$ 呼んで, 死にます $\rightarrow$ 死んで*)
+* **き** $\rightarrow$ **いて** (*e.g., 書きます $\rightarrow$ 書いて*) *(Exception: 行きます $\rightarrow$ 行って)*
+* **ぎ** $\rightarrow$ **いで** (*e.g., 急ぎます $\rightarrow$ 急いで*)
+* **し** $\rightarrow$ **して** (*e.g., 話します $\rightarrow$ 話して*)
+
+
+* **Group 2 ( ru-verbs / 一段):** Drop **ます** and add **て**.
+* *e.g., 食べます $\rightarrow$ 食べて, 見せます $\rightarrow$ 見せて, あけます $\rightarrow$ あけて*
+
+
+* **Group 3 (Irregular verbs):**
+* **きます (来ます)** $\rightarrow$ **きて (来て)**
+* **します** $\rightarrow$ **して** (*e.g., コピーします $\rightarrow$ コピーして*)
+
+
+
+---
+
+**1. Verb て形 + ください (Please do...)**
+
+* **Simple Explanation:** Attach **ください** (*kudasai*) to the **て-form** of a verb to make a polite request or instruction ("Please do [verb]").
+* **Example 1:**
+* **Kanji:** ここに名前を書いてください。
+* **Without Kanji:** ここになまえをかいてください。
+* **Romaji:** Koko ni namae o kaite kudasai.
+* **Translation:** Please write your name here.
+
+
+* **Example 2:**
+* **Kanji:** すみません、ゆっくり話してください。
+* **Without Kanji:** すみません、ゆっくりはなしてください。
+* **Romaji:** Sumimasen, yukkuri hanashite kudasai.
+* **Translation:** Excuse me, please speak slowly.
+
+
+* **Example 3:**
+* **Kanji:** パスポートを見せてください。
+* **Without Kanji:** パスポートをみせてください。
+* **Romaji:** Pasupooto o misete kudasai.
+* **Translation:** Please show me your passport.
+
+
+
+---
+
+**2. Verb て形 + います (Action in Progress / Present Continuous)**
+
+* **Simple Explanation:** Attach **います** (*imasu*) to the **て-form** of a verb to indicate that an action is currently happening right now ("is doing [verb]").
+* **Example 1:**
+* **Kanji:** サミットさんは今テレビを見ています。
+* **Without Kanji:** サミットさんはいまテレビをみています。
+* **Romaji:** Samitto-san wa ima terebi o mite imasu.
+* **Translation:** Sumedh is watching TV right now.
+
+
+* **Example 2:**
+* **Kanji:** 今雨が降っています。
+* **Without Kanji:** いまあめがふっています。
+* **Romaji:** Ima ame ga futte imasu.
+* **Translation:** It is raining right now.
+
+
+* **Example 3:**
+* **Kanji:** 太郎君は本を読んでいます。
+* **Without Kanji:** たろうくんはほんをよんでいます。
+* **Romaji:** Tarou-kun wa hon o yonde imasu.
+* **Translation:** Taro is reading a book.
+
+
+
+---
+
+**3. Verb Stem + ましょうか (Shall I do...?)**
+
+* **Simple Explanation:** Drop **ます** from a verb and add **ましょうか** (*mashou ka*) to actively offer your assistance to the listener ("Shall I [do verb] for you?").
+* **Example 1:**
+* **Kanji:** 荷物を持ちましょうか。
+* **Without Kanji:** にもつをもちましょうか。
+* **Romaji:** Nimotsu o mochimashou ka.
+* **Translation:** Shall I carry your luggage?
+
+
+* **Example 2:**
+* **Kanji:** 窓を開けましょうか。
+* **Without Kanji:** まどをあけましょうか。
+* **Romaji:** Mado o akemashou ka.
+* **Translation:** Shall I open the window?
+
+
+* **Example 3:**
+* **Kanji:** タクシーを呼びましょうか。
+* **Without Kanji:** タクシーをよびましょうか。
+* **Romaji:** Takushii o yobimashou ka.
+* **Translation:** Shall I call a taxi?
+
+
+
+---
+
+**4. Noun が Verb (Describing Natural Phenomena or Observed Facts)**
+
+* **Simple Explanation:** When describing a perceived event or natural occurrence (like natural weather phenomenon or a continuous process), mark the subject with **が** (*ga*) instead of **は**.
+* **Example 1:**
+* **Kanji:** 雨が降っています。
+* **Without Kanji:** あめがふっています。
+* **Romaji:** Ame ga futte imasu.
+* **Translation:** Rain is falling.
+
+
+* **Example 2:**
+* **Kanji:** 電気があります。
+* **Without Kanji:** でんきがあります。
+* **Romaji:** Denki ga arimasu.
+* **Translation:** There is electricity.

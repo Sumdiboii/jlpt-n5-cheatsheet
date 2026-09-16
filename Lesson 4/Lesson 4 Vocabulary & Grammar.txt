@@ -1,0 +1,166 @@
+**Lesson 4 Vocabulary & Grammar (Complete with Counters & Full Kana Examples)**
+
+**Vocabulary List**
+
+* **起きます (おきます, okimasu)** – To get up / Wake up
+* **寝ます (ねます, nemasu)** – To sleep / Go to bed
+* **働きます (はたらきます, hatarakimasu)** – To work
+* **休みます (やすみます, yasumimasu)** – To take a rest / Take a holiday
+* **勉強します (べんきょうします, benkyou shimasu)** – To study
+* **終わります (おわります, owarimasu)** – To finish / End
+* **デパート (depato)** – Department store
+* **銀行 (ぎんこう, ginkou)** – Bank
+* **郵便局 (ゆうびんきょく, yuubinkyoku)** – Post office
+* **図書館 (としょかん, toshokan)** – Library
+* **美術館 (びじゅつかん, bijutsukan)** – Art museum
+* **今 (いま, ima)** – Now
+* **～時 (～じ, ~ji)** – O'clock / Hour
+* **～分 (～ふん / ～ぷん, ~fun / ~pun)** – Minute
+* **半 (はん, han)** – Half past (the hour)
+* **何時 (なんじ, nanji)** – What time
+* **何分 (なんぷん, nanpun)** – What minute
+* **午前 (ごぜん, gozen)** – AM / Morning
+* **午後 (ごご, gogo)** – PM / Afternoon
+* **朝 (あさ, asa)** – Morning
+* **昼 (ひる, hiru)** – Daytime / Noon
+* **晩 / 夜 (ばん / よる, ban / yoru)** – Evening / Night
+* **一昨日 (おととい, ototoi)** – The day before yesterday
+* **昨日 (きのう, kinou)** – Yesterday
+* **今日 (きょう, kyou)** – Today
+* **明日 (あした, ashita)** – Tomorrow
+* **明後日 (あさって, asatte)** – The day after tomorrow
+* **今朝 (けさ, kesa)** – This morning
+* **今晩 (こんばん, konban)** – This evening / Tonight
+* **休み (やすみ, yasumi)** – Rest / Break / Holiday / Day off
+* **昼休み (ひるやすみ, hiruyasumi)** – Lunch break
+* **試験 (しけん, shiken)** – Examination / Test
+* **会議 (かいぎ, kaigi)** – Meeting / Conference
+* **映画 (えいが, eiga)** – Movie / Film
+* **毎朝 (まいあさ, maiasa)** – Every morning
+* **毎晩 (まいばん, maiban)** – Every night
+* **毎日 (まいにち, mainichi)** – Every day
+* **日曜日 (にちようび, nichiyoubi)** – Sunday
+* **月曜日 (げつようび, getsuyoubi)** – Monday
+* **火曜日 (かようび, kayoubi)** – Tuesday
+* **水曜日 (すいようび, suiyoubi)** – Wednesday
+* **木曜日 (もくようび, mokuyoubi)** – Thursday
+* **金曜日 (きんようび, kinyoubi)** – Friday
+* **土曜日 (どようび, doyoubi)** – Saturday
+* **何曜日 (なんようび, nanyoubi)** – What day of the week
+* **～から (~ kara)** – From ~
+* **～まで (~ made)** – Up to ~ / Until ~
+* **～と ~ (~ to ~)** – And (connecting nouns)
+* **大変ですね (たいへんですね, taihen desu ne)** – That's tough / That must be hard
+* **番号 (ばんごう, bangou)** – Number
+* **何番 (なんばん, nanban)** – What number
+
+---
+
+**Grammar Concepts & Examples (Lesson 4)**
+
+**1. [Time] に [Verb] (Stating the exact time an action happens)**
+
+* **Simple Explanation:** When you do an action at a specific time, attach the particle **に** (*ni*) directly after the time word.
+* **Example 1:** わたしは6時に起きます。
+* **(Full Kana):** わたしは6じにおきます。
+* **Romaji:** Watashi wa roku-ji ni okimasu.
+* **Translation:** I wake up at 6 o'clock.
+
+
+* **Example 2:** サミットさんは11時に寝ます。
+* **(Full Kana):** サミットさんは11じにねます。
+* **Romaji:** Samitto-san wa juu-ichi-ji ni nemasu.
+* **Translation:** Sumedh goes to bed at 11 o'clock.
+
+
+* **Example 3:** 銀行は9時に始まります。
+* **(Full Kana):** ぎんこうは9じにはじまります。
+* **Romaji:** Ginkou wa ku-ji ni hajimarimasu.
+* **Translation:** The bank opens at 9 o'clock.
+
+
+
+---
+
+**2. [Starting Time] から [Ending Time] まで (From ~ To ~)**
+
+* **Simple Explanation:** **から** (*kara*) means "from," and **まで** (*made*) means "until" or "to." Use them together to frame time ranges.
+* **Example 1:** わたしは9時から5時まで働きます。
+* **(Full Kana):** わたしは9じから5じまではたらきます。
+* **Romaji:** Watashi wa ku-ji kara go-ji made hatarakimasu.
+* **Translation:** I work from 9 o'clock to 5 o'clock.
+
+
+* **Example 2:** 図書館は月曜日から金曜日までです。
+* **(Full Kana):** としょかんはげつようびからきんようびまでです。
+* **Romaji:** Toshokan wa getsuyoubi kara kinyoubi made desu.
+* **Translation:** The library is open from Monday to Friday.
+
+
+
+---
+
+**3. [Noun 1] と [Noun 2] (Connecting Nouns with "And")**
+
+* **Simple Explanation:** The particle **と** (*to*) links two nouns together inclusively, equivalent to the English word "and."
+* **Example 1:** 土曜日と日曜日は休みです。
+* **(Full Kana):** どようびとにちようびはやすみです。
+* **Romaji:** Doyoubi to nichiyoubi wa yasumi desu.
+* **Translation:** Saturday and Sunday are days off.
+
+
+* **Example 2:** 銀行と郵便局はあそこです。
+* **(Full Kana):** ぎんこうとゆうびんきょくはあそこです。
+* **Romaji:** Ginkou to yuubinkyoku wa asoko desu.
+* **Translation:** The bank and the post office are over there.
+
+
+
+---
+
+**4. [Sentence] ね (Seeking agreement or expressing sympathy)**
+
+* **Simple Explanation:** Sticking **ね** (*ne*) at the end of a sentence soft-pedals a statement to share a mutual feeling with your listener ("isn't it?", "right?").
+* **Example 1:** 毎日はたらきます。大変ですね。
+* **(Full Kana):** まいにちはたらきます。たいへんですね。
+* **Romaji:** Mainichi hatarakimasu. Taihen desu ne.
+* **Translation:** I work every day. That's tough, isn't it?
+
+
+* **Example 2:** 日本語は難しいですね。
+* **(Full Kana):** にほんごはむずかしいですね。
+* **Romaji:** Nihongo wa muzukashii desu ne.
+* **Translation:** Japanese is difficult, right?
+
+
+
+---
+
+**5. ～時 (~ji) & ～分 (~fun / ~pun): Telling Time & Minute Counters**
+
+* **Simple Explanation:** Lesson 4 introduces time counters. Hours use **～時** (*~ji*), and minutes use **～分** (*~fun / ~pun*). Crucially, the minute counter undergoes sound changes depending on the trailing digit (shifting between *fun* and *pun*, with doubled consonant sounds for 1, 6, 8, 10).
+* **Hour Pattern:** 1時 (*ichi-ji*), 2時 (*ni-ji*), 3時 (*san-ji*), 4時 (*yo-ji* - note it drops *n*), 5時 (*go-ji*), 6時 (*roku-ji*), 7時 (*shichi-ji / nana-ji*), 8時 (*hachi-ji*), 9時 (*ku-ji*), 10時 (*juu-ji*), 11時 (*juu-ichi-ji*), 12時 (*juu-ni-ji*). Interrogative: **何時** (*nan-ji* - What time?).
+* **Minute Sound Shifting Reference Table:**
+* **1 min:** 一分 (いっぷん, **ippun**)
+* **2 min:** 二分 (にふん, **nifun**)
+* **3 min:** 三分 (さんぷん, **sanpun**)
+* **4 min:** 四分 (よんぷん, **yonpun**)
+* **5 min:** 五分 (ごふん, **gofun**)
+* **6 min:** 六分 (ろっぷん, **roppun**)
+* **7 min:** 七分 (ななふん, **nanafun**)
+* **8 min:** 八分 (はっぷん / はちふん, **happun / hachifun**)
+* **9 min:** 九分 (きゅうふん, **kyuufun**)
+* **10 min:** 十分 (じっぷん / じゅっぷん, **jippun / juppun**)
+* *Interrogative:* **何分** (なんぷん, **nanpun** - What minute?)
+
+
+* **Example 1:** 映画は5時15分に終わります。
+* **(Full Kana):** えいがは5じ15ふんにおわります。
+* **Romaji:** Eiga wa go-ji juu-go-fun ni owarimasu.
+* **Translation:** The movie finishes at 5:15.
+
+
+* **Example 2:** 今は3時半です。
+* **(Full Kana):** いまは3じはんです。
+* **Romaji:** Ima wa san-ji han desu.
+* **Translation:** It is half past three right now. *(Note: **半** (*han*) means "half" past the hour).*

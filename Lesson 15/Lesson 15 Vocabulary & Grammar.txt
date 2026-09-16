@@ -1,0 +1,136 @@
+**Lesson 15 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **おきます (置きます, okimasu)** – To put, to place
+* **つくります (作ります, つくります, tsukurimasu)** – To make, to produce
+* **うります (売ります, urimasu)** – To sell
+* **しります (知ります, shirimasu)** – To get to know
+* **しっています (知っています, shitte imasu)** – To know
+* **しりません (知りません, shirimasen)** – To not know
+* **すみます (住みます, sumimasu)** – To live, reside [in Tokyo: 東京に～]
+* **研究します (けんきゅうします, kenkyuu shimasu)** – To do research
+* **しりょう (資料, shiryou)** – Materials, data
+* **カタログ (katarogu)** – Catalog
+* **じかくひょう (時刻表, jikakuhyou)** – Timetable
+* **ふく (服, fuku)** – Clothes
+* **せいひん (製品, seihin)** – Products, goods
+* **ソフト (sofuto)** – Software
+* **でんしじしょ (電子辞書, denshijisho)** – Electronic dictionary
+* **けいざい (経済, keizai)** – Economy, economics
+* **しやくしょ (市役所, shiyakusho)** – City hall, municipal office
+* **こうこう (高校, koukou)** – Senior high school
+* **はいしゃ (歯医者, haisha)** – Dentist, dental clinic
+* **独身 (どくしん, dokushin)** – Single, unmarried
+* **歯 (は, ha)** – Tooth, teeth
+* **みなさん (皆さん, minasan)** – Everyone, ladies and gentlemen
+* **思い出します (おもいだします, omoidashimasu)** – To remember, recall
+* **いらっしゃいます (irasshaimasu)** – To be, to stay (honorific equivalent of います)
+
+---
+
+**Grammar Concepts & Conjugation Rules (Lesson 15)**
+
+**1. Verb て形 + も いいです (Asking or Giving Permission)**
+
+* **Simple Explanation:** Attach **も いいです** (*mo ii desu*) to the **て-form** of a verb to state "you may do [verb]". Put **か** at the end (**～てもいいですか**) to ask "May I do [verb]?" or "Is it OK if I do [verb]?".
+* **Example 1:**
+* **Kanji:** 写真を撮ってもいいですか。
+* **Without Kanji:** しゃしんをとおってもいいですか。
+* **Romaji:** Shashin o totte mo ii desu ka.
+* **Translation:** May I take a picture?
+
+
+* **Example 2:**
+* **Kanji:** たばこを吸ってもいいです。
+* **Without Kanji:** たばこをすってもいいです。
+* **Romaji:** Tabako o sutte mo ii desu.
+* **Translation:** You may smoke cigarettes.
+
+
+* **Example 3:**
+* **Kanji:** ここに入ってもいいですか。
+* **Without Kanji:** ここにはいってもいいですか。
+* **Romaji:** Koko ni hairi mo ii desu ka.
+* **Translation:** May I enter here?
+
+
+
+---
+
+**2. Verb て形 + は いけません (Prohibition / Strong Disallowance)**
+
+* **Simple Explanation:** Attach **は いけません** (*wa ikemasen*) to the **て-form** of a verb to state "you must not do [verb]" or "doing [verb] is prohibited".
+* **Example 1:**
+* **Kanji:** ここで写真を撮ってはいけません。
+* **Without Kanji:** ここでしゃしんをとおってはいけません。
+* **Romaji:** Koko de shashin o totte wa ikemasen.
+* **Translation:** You must not take photographs here.
+
+
+* **Example 2:**
+* **Kanji:** 禁煙ですから、ここでたばこを吸ってはいけません。
+* **Without Kanji:** きんえんですから、ここでたばこをすってはいけません。
+* **Romaji:** Kin'en desu kara, koko de tabako o sutte wa ikemasen.
+* **Translation:** Because non-smoking is enforced, you must not smoke here.
+
+
+* **Example 3:**
+* **Kanji:** 車をここに止めてはいけません。
+* **Without Kanji:** くるまをここにとめてはいけません。
+* **Romaji:** Kuruma o koko ni tomete wa ikemasen.
+* **Translation:** You must not park the car here.
+
+
+
+---
+
+**3. Verb て形 + います (State / Resultant Continuous State)**
+
+* **Simple Explanation:** While Lesson 14 introduced **て います** as an action currently in progress (e.g., eating), in Lesson 15 it indicates a **resulting state that continues to exist** after an action occurred in the past (e.g., living in a city, knowing something, being married).
+* **Key Patterns:**
+* **住んでいます (*suminde imasu*):** Live in a place (*[Place] に 住んでいます*).
+* **知っています (*shitte imasu*):** Know something. **Note:** Negation is **知りません (*shirimasen*)**, NOT 知っていません.
+* **持っています (*motte imasu*):** Own/possess something.
+* **結婚しています (*kekkon shite imasu*):** Be married.
+
+
+* **Example 1:**
+* **Kanji:** 私は大阪に住んでいます。
+* **Without Kanji:** わたしはおおさかにすんでいます。
+* **Romaji:** Watashi wa Oosaka ni suminde imasu.
+* **Translation:** I live in Osaka.
+
+
+* **Example 2:**
+* **Kanji:** 市役所の電話番号を知っていますか。...いいえ、知りません。
+* **Without Kanji:** しやくしょのでんわばんごうをしっていますか。...いいえ、しりません。
+* **Romaji:** Shiyakusho no denwa bangou o shitte imasu ka. ...Iie, shirimasen.
+* **Translation:** Do you know the city hall's phone number? ...No, I do not.
+
+
+* **Example 3:**
+* **Kanji:** サミットさんはカメラを持っています。
+* **Without Kanji:** サミットさんはカメラをもっています。
+* **Romaji:** Samitto-san wa kamera o motte imasu.
+* **Translation:** Sumedh owns/carries a camera.
+
+
+
+---
+
+**4. Noun 1 に Noun 2 を 置きます / つくります (Putting or Making)**
+
+* **Simple Explanation:** Mark the location where an object is placed or constructed using particle **に** (*ni*), and mark the object itself using particle **を** (*o*).
+* **Example 1:**
+* **Kanji:** 机の上に資料を置きます。
+* **Without Kanji:** つくえのうえにしりょうをおきます。
+* **Romaji:** Tsukue no ue ni shiryou o okimasu.
+* **Translation:** I place the materials on top of the desk.
+
+
+* **Example 2:**
+* **Kanji:** 日本の会社は製品を作っています。
+* **Without Kanji:** にほんのかいしゃはせいひんをつくっています。
+* **Romaji:** Nihon no kaisha wa seihin o tsukutte imasu.
+* **Translation:** Japanese companies are making products.

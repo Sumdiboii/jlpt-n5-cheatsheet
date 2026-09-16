@@ -1,0 +1,279 @@
+**Lesson 6 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **食べます (たべます, tabemasu)** – To eat
+* **飲みます (のみます, nomimasu)** – To drink
+* **吸います (すいます, suimasu)** – To smoke (e.g., tobacco)
+* **見ます (みます, mimasu)** – To see / To look / To watch
+* **聞きます (ききます, kikimasu)** – To hear / To listen
+* **読みます (よみます, yomimasu)** – To read
+* **書きます (かきます, kakimasu)** – To write / To draw
+* **買います (かいます, kaimasu)** – To buy
+* **撮ります (とります, torimasu)** – To take (a photograph)
+* **します (します, shimasu)** – To do / To play (sports/games)
+* **会います (あいます, aimasu)** – To meet (e.g., a friend)
+* **ご飯 (ごはん, gohan)** – Meal / Cooked rice
+* **朝ご飯 (あさごはん, asagohan)** – Breakfast
+* **昼ご飯 (ひるごはん, hirugohan)** – Lunch
+* **晩ご飯 (ばんごはん, bangohan)** – Dinner / Supper
+* **パン (ぱん, pan)** – Bread
+* **卵 (たまご, tamago)** – Egg
+* **肉 (にく, niku)** – Meat
+* **魚 (さかな, sakana)** – Fish
+* **野菜 (やさい, yasai)** – Vegetable
+* **果物 (くだもの, kudamono)** – Fruit
+* **水 (みず, mizu)** – Water
+* **お茶 (おちゃ, ocha)** – Green tea / Tea
+* **紅茶 (こうちゃ, koucha)** – Black tea
+* **牛乳 (ぎゅうにゅう, gyuunyuu)** – Cow's milk
+* **ビール (ビール, biiru)** – Beer
+* **お酒 (おさけ, osake)** – Alcohol / Japanese sake
+* **タバコ (たばこ, tabako)** – Tobacco / Cigarette
+* **手紙 (てがみ, tegami)** – Letter
+* **レポート (レポート, repooto)** – Report
+* **写真 (しゃしん, shashin)** – Photograph
+* **ビデオ (ビデオ, bideo)** – Video / Videotape
+* **店 (みせ, mise)** – Shop / Store
+* **庭 (にわ, niwa)** – Garden / Yard
+* **宿題 (しゅくだい, shukudai)** – Homework (*宿題をします: to do homework*)
+* **テニス (テニス, tenisu)** – Tennis (*テニスをします: to play tennis*)
+* **サッカー (サッカー, sakkaa)** – Soccer / Football (*サッカーをします: to play soccer*)
+* **お花見 (おはなみ, ohanami)** – Cherry blossom viewing
+* **何 (なに, nani)** – What
+* **一緒に (いっしょに, issho ni)** – Together
+* **ちょっと (ちょっと, chotto)** – A little / A while
+* **いつも (いつも, itsumo)** – Always / Usually
+* **時々 (ときどき, tokidoki)** – Sometimes
+* **あまり (あまり, amari)** – Not very often / Not much *(used with negative)*
+* **ぜんぜん (ぜんぜん, zenzen)** – Not at all *(used with negative)*
+* **それから (それから, sorekara)** – And then / After that
+* **ええ (ええ, ee)** – Yes (conversational)
+* **いいですね (いいですね, ii desu ne)** – That's good / Sounds good
+* **わかりました (わかりました, wakarimashita)** – I understand / Understood
+
+---
+
+**Grammar Concepts & Examples (Lesson 6)**
+
+**1. [Noun] を [Verb] (Direct Object Marker)**
+
+* **Simple Explanation:** The particle **を** (pronounced ***o***) is placed directly after a noun to show that it is the direct object—the thing receiving the action of the verb (what you eat, read, buy, etc.).
+* **Example 1:**
+* **Kanji:** わたしはパンを食べます。
+* **Without Kanji:** わたしはパンをたべます。
+* **Romaji:** Watashi wa pan o tabemasu.
+* **Translation:** I eat bread.
+
+
+* **Example 2:**
+* **Kanji:** ジョンさんは新聞を読みます。
+* **Without Kanji:** ジョンさんはしんぶんをよみます。
+* **Romaji:** Jon-san wa shinbun o yomimasu.
+* **Translation:** John reads a newspaper.
+
+
+* **Example 3:**
+* **Kanji:** サミットさんは日本語の本を買います。
+* **Without Kanji:** サミットさんはにほんごのほんをかいます。
+* **Romaji:** Samitto-san wa nihongo no hon o kaimasu.
+* **Translation:** Sumedh buys a Japanese book.
+
+
+* **Exception / Special Note:** Although the hiragana character is written as **を** (*wo*), when it functions as the object marker particle, it is **always** pronounced simply as **お** (*o*).
+
+---
+
+**2. 何をしますか (What do you do? / Object Question)**
+
+* **Simple Explanation:** To ask what action someone is performing or what object they are interacting with, replace the direct object noun with the question word **何** (*nani*), followed by **を** and a verb.
+* **Example 1:**
+* **Kanji:** 日曜日に何をしますか。
+* **Without Kanji:** にちようびに何をしますか。
+* **Romaji:** Nichiyoubi ni nani o shimasu ka.
+* **Translation:** What will you do on Sunday?
+
+
+* **Example 2:**
+* **Kanji:** 朝ご飯に何を食べますか。
+* **Without Kanji:** あさごはんに何をたべますか。
+* **Romaji:** Asagohan ni nani o tabemasu ka.
+* **Translation:** What do you eat for breakfast?
+
+
+* **Example 3:**
+* **Kanji:** サミットさんは何を買いますか。
+* **Without Kanji:** サミットさんはなにをかいますか。
+* **Romaji:** Samitto-san wa nani o kaimasu ka.
+* **Translation:** What is Sumedh buying?
+
+
+* **Exception / Special Note:** When **何** is followed by particles starting with sounds outside the t/d/n rows (like **を**), it is pronounced **nani** (unlike *nan* used before *no* or *desu*).
+
+---
+
+**3. [Place] で [Verb] (Location of an Action)**
+
+* **Simple Explanation:** The particle **で** (*de*) indicates **where** an active event or action takes place. Do not confuse this with **に/へ**, which mark destinations of movement. **で** marks the venue where you *do* something.
+* **Example 1:**
+* **Kanji:** スーパーでパンを買います。
+* **Without Kanji:** スーパーでパンをかいます。
+* **Romaji:** Suupaa de pan o kaimasu.
+* **Translation:** I buy bread at the supermarket.
+
+
+* **Example 2:**
+* **Kanji:** 図書館で日本語の本を読みます。
+* **Without Kanji:** としょかんでにほんごのほんをよみます。
+* **Romaji:** Toshokan de nihongo no hon o yomimasu.
+* **Translation:** I read Japanese books at the library.
+
+
+* **Example 3:**
+* **Kanji:** サミットさんはレストランで晩ご飯を食べます。
+* **Without Kanji:** サミットさんはレストランでばんごはんをたべます。
+* **Romaji:** Samitto-san wa resutoran de bangohan o tabemasu.
+* **Translation:** Sumedh eats dinner at a restaurant.
+
+
+* **Exception / Special Note:** Verbs of existence or state like **います** (*imasu* - to exist/stay) or **あります** (*arimasu* - to exist/have) do **not** use **で** for location; they use **に**.
+
+---
+
+**4. ～ませんか (Polite Invitation / "Won't you do ~?")**
+
+* **Simple Explanation:** By changing a verb's *-masu* ending to **～ませんか** (*-masen ka*), you invite or suggest to someone that you do an action together.
+* **Example 1:**
+* **Kanji:** いっしょに映画を見ませんか。
+* **Without Kanji:** いっしょにえいがをみませんか。
+* **Romaji:** Issho ni eiga o mimasen ka.
+* **Translation:** Won't you watch a movie together?
+
+
+* **Example 2:**
+* **Kanji:** 明日、テニスをしませんか。
+* **Without Kanji:** あした、テニスをしませんか。
+* **Romaji:** Ashita, tenisu o shimasen ka.
+* **Translation:** Won't you play tennis tomorrow?
+
+
+* **Example 3:**
+* **Kanji:** サミットさん、コーヒーを飲みませんか。
+* **Without Kanji:** サミットさん、コーヒーをのみませんか。
+* **Romaji:** Samitto-san, koohii o nomimasen ka.
+* **Translation:** Sumedh, won't you drink some coffee?
+
+
+* **Exception / Special Note:** To enthusiastically accept an invitation, reply with **いいですね** (*ii desu ne* - "Sounds good!").
+
+---
+
+**5. ～ましょう (Let's do ~ / Volitional Encouragement)**
+
+* **Simple Explanation:** Replacing the *-masu* ending with **～ましょう** (*-mashou*) expresses an active agreement, self-encouragement, or a direct response to an invitation meaning "Let's do [action]!"
+* **Example 1:**
+* **Kanji:** あ、いいですね。行きましょう。
+* **Without Kanji:** あ、いいですね。いきましょう。
+* **Romaji:** A, ii desu ne. Ikimashou.
+* **Translation:** Ah, sounds good. Let's go.
+
+
+* **Example 2:**
+* **Kanji:** ちょっと休みましょう。
+* **Without Kanji:** ちょっとやすみましょう。
+* **Romaji:** Chotto yasumimashou.
+* **Translation:** Let's take a short break.
+
+
+* **Example 3:**
+* **Kanji:** いっしょに昼ご飯を食べましょう。
+* **Without Kanji:** いっしょにひるごはんをたべましょう。
+* **Romaji:** Issho ni hirugohan o tabemashou.
+* **Translation:** Let's eat lunch together.
+
+
+* **Exception / Special Note:** **～ませんか** is strictly used to *extend* an invitation, whereas **～ましょう** is used to *accept* it or propose a shared action on the spot.
+
+---
+
+**6. Frequency Adverbs and Polarity Match (いつも, よく, あまり, ぜんぜん)**
+
+* **Simple Explanation:** Adverbs indicating frequency dictate whether your sentence ends in an affirmative verb (*-masu*) or a negative verb (*-masen*). **いつも** (*always*) and **よく** (*often*) pair with positive verbs, while **あまり** (*not very much*) and **ぜんぜん** (*not at all*) **must** end with a negative verb (*-masen*).
+* **Example 1:**
+* **Kanji:** 私はいつも朝ご飯を食べます。
+* **Without Kanji:** わたしはいつもあさごはんをたべます。
+* **Romaji:** Watashi wa itsumo asagohan o tabemasu.
+* **Translation:** I always eat breakfast.
+
+
+* **Example 2:**
+* **Kanji:** サミットさんはあまりお酒を飲みません。
+* **Without Kanji:** サミットさんはあまりおさけをのみません。
+* **Romaji:** Samitto-san wa amari osake o nomimasen.
+* **Translation:** Sumedh doesn't drink alcohol very often.
+
+
+* **Example 3:**
+* **Kanji:** 私はぜんぜんタバコを吸いません。
+* **Without Kanji:** わたしはぜんぜんタバコをすいません。
+* **Romaji:** Watashi wa zenzen tabako o suimasen.
+* **Translation:** I don't smoke tobacco at all.
+
+
+* **Exception / Special Note:** Never pair *amari* or *zenzen* with an affirmative *-masu* ending; doing so is grammatically incorrect.
+
+---
+
+**7. The "Noun + します" Action Compound Pattern**
+
+* **Simple Explanation:** Many abstract nouns (like study, work, sports) transform into active verbs simply by attaching the object marker **を** and the verb **します** (*shimasu* - to do).
+* **Example 1:**
+* **Kanji:** 私は毎日日本語を勉強します。
+* **Without Kanji:** わたしはまいにちにほんごをべんきょうします。
+* **Romaji:** Watashi wa mainichi nihongo o benkyou shimasu.
+* **Translation:** I study Japanese every day.
+
+
+* **Example 2:**
+* **Kanji:** サミットさんは会社で仕事をします。
+* **Without Kanji:** サミットさんはかいしゃでしごとをします。
+* **Romaji:** Samitto-san wa kaisha de shigoto o shimasu.
+* **Translation:** Sumedh works at the company.
+
+
+* **Example 3:**
+* **Kanji:** 週末にテニスをします。
+* **Without Kanji:** しゅうまつにテニスをします。
+* **Romaji:** Shuumatsu ni tenisu o shimasu.
+* **Translation:** I play tennis on the weekend.
+
+
+* **Exception / Special Note:** Some compound nouns drop the **を** in casual speech (e.g., *benkyou o shimasu* can shorten to *benkyou shimasu*), but retaining **を** is standard for N5 textbook mastery.
+
+---
+
+**8. The Particle も for Direct Objects**
+
+* **Simple Explanation:** Just like **も** replaces the topic marker **は** to mean "also", it can also replace the direct object marker **を** when an object matches a category or action previously stated.
+* **Example 1:**
+* **Kanji:** 私はパンを食べます。りんごも食べます。
+* **Without Kanji:** わたしはパンをたべます。りんごもたべます。
+* **Romaji:** Watashi wa pan o tabemasu. Ringo mo tabemasu.
+* **Translation:** I eat bread. I eat apples **too**.
+
+
+* **Example 2:**
+* **Kanji:** ジョンさんは日本語の本を買います。雑誌も買います。
+* **Without Kanji:** ジョンさんはにほんごのほんをかいます。ざっしもかいます。
+* **Romaji:** Jon-san wa nihongo no hon o kaimasu. Zasshi mo kaimasu.
+* **Translation:** John buys a Japanese book. He buys a magazine **too**.
+
+
+* **Example 3:**
+* **Kanji:** サミットさんはお茶を飲みます。コーヒーも飲みます。
+* **Without Kanji:** サミットさんはおちゃをのみます。コーヒーものみます。
+* **Romaji:** Samitto-san wa ocha o nomimasu. Koohii mo nomimasu.
+* **Translation:** Sumedh drinks green tea. He drinks coffee **too**.
+
+
+* **Exception / Special Note:** Never say *ringo o mo tabemasu*; the particle **も** entirely supplants and replaces the object marker **を**.

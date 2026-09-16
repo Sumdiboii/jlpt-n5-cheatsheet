@@ -1,0 +1,223 @@
+**Lesson 5 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **行きます (いきます, ikimasu)** – To go
+* **来ます (きます, kimasu)** – To come
+* **帰ります (かえります, kaerimasu)** – To go home / To return
+* **学校 (がっこう, gakkou)** – School
+* **駅 (えき, eki)** – Station
+* **飛行機 (ひこうき, hikouki)** – Airplane
+* **船 (ふね, fune)** – Ship / Boat
+* **電車 (でんしゃ, densha)** – Train
+* **地下鉄 (ちかてつ, chikatetsu)** – Subway / Underground
+* **新幹線 (しんかんせん, shinkansen)** – Shinkansen / Bullet train
+* **バス (basu)** – Bus
+* **タクシー (takushī)** – Taxi
+* **自転車 (じてんしゃ, jitensha)** – Bicycle
+* **歩いて (あるいて, aruite)** – On foot / Walking
+* **人 (ひと, hito)** – Person
+* **友達 (ともだち, tomodachi)** – Friend
+* **彼 (かれ, kare)** – He / Boyfriend
+* **彼女 (かのじょ, kanojo)** – She / Girlfriend
+* **家族 (かぞく, kazoku)** – Family
+* **一人で (ひとりで, hitori de)** – Alone / By oneself
+* **先週 (せんしゅう, senshuu)** – Last week
+* **今週 (こんしゅう, konshuu)** – This week
+* **来週 (らいしゅう, raishuu)** – Next week
+* **先月 (せんげつ, sengetsu)** – Last month
+* **今月 (こんげつ, kongetsu)** – This month
+* **来月 (らいげつ, raigetsu)** – Next month
+* **昨年 / 去年 (きょねん, kyonen)** – Last year
+* **今年 (ことし, kotoshi)** – This year
+* **来年 (らいねん, rainen)** – Next year
+* **～月 (～がつ, ~gatsu)** – ~ month
+* **何月 (なんがつ, nan gatsu)** – What month
+* **一日 (ついたち, tsuitachi)** – 1st day of the month
+* **二日 (ふつか, futsuka)** – 2nd day / 2 days
+* **三日 (みっか, mikka)** – 3rd day / 3 days
+* **四日 (よっか, yokka)** – 4th day / 4 days
+* **五日 (いつか, itsuka)** – 5th day / 5 days
+* **六日 (むいか, muika)** – 6th day / 6 days
+* **七日 (なのか, nanoka)** – 7th day / 7 days
+* **八日 (ようか, youka)** – 8th day / 8 days
+* **九日 (ここのか, kokonoka)** – 9th day / 9 days
+* **十日 (とおか, tooka)** – 10th day / 10 days
+* **十四日 (じゅうよっか, juuyokka)** – 14th day / 14 days
+* **二十日 (はつか, hatsuka)** – 20th day / 20 days
+* **～日 (～にち, ~nichi)** – ~th day of the month / ~ days
+* **何日 (なんにち, nannichi)** – Which day of the month / How many days
+* **いつ (itsu)** – When
+* **誕生日 (たんじょうび, tanjoubi)** – Birthday
+* **そうですね (そうですね, sou desu ne)** – That's right / Let me see
+* **どうもありがとうございます (どうもありがとうございます, doumo arigatou gozaimasu)** – Thank you very much
+
+---
+
+**Grammar Concepts & Examples (Lesson 5)**
+
+**1. [Place] へ 行きます / 来ます / 帰ります (Going, Coming, Returning to a Place)**
+
+* **Simple Explanation:** The particle **へ** (pronounced ***e*** when used as a direction marker) indicates the destination of movement, followed by verbs like **行きます** (*ikimasu* - go), **来ます** (*kimasu* - come), or **帰ります** (*kaerimasu* - return).
+* **Example 1:**
+* **Kanji:** わたしは東京へ行きます。
+* **Without Kanji:** わたしはとうきょうへいきます。
+* **Romaji:** Watashi wa Tōkyō e ikimasu.
+* **Translation:** I will go to Tokyo.
+
+
+* **Example 2:**
+* **Kanji:** ジョンさんは大学へ来ます。
+* **Without Kanji:** ジョンさんはだいがくへきます。
+* **Romaji:** Jon-san wa daigaku e kimasu.
+* **Translation:** John will come to the university.
+
+
+* **Example 3:**
+* **Kanji:** サミットさんはうちへ帰ります。
+* **Without Kanji:** サミットさんはうちへかえります。
+* **Romaji:** Samitto-san wa uchi e kaerimasu.
+* **Translation:** Sumedh is returning home.
+
+
+* **Exception / Special Note:** Even though the hiragana character is **へ** (*he*), when it functions as a destination particle, it is **always** pronounced as **え** (*e*). (Note: The particle **に** can also be used here interchangeably for destinations).
+
+---
+
+**2. [Vehicle] で 行きます / 来ます / 帰ります (Means of Transport)**
+
+* **Simple Explanation:** The particle **で** (*de*) indicates the means, method, or vehicle used to accomplish an action. When paired with movement verbs, it means "by means of [vehicle]".
+* **Example 1:**
+* **Kanji:** わたしは電車で行きます。
+* **Without Kanji:** わたしはでんしゃでいきます。
+* **Romaji:** Watashi wa densha de ikimasu.
+* **Translation:** I go by train.
+
+
+* **Example 2:**
+* **Kanji:** あの人は新幹線で東京へ行きます。
+* **Without Kanji:** あのひとはしんかんせんでとうきょうへいきます。
+* **Romaji:** Ano hito wa shinkansen de Tōkyō e ikimasu.
+* **Translation:** That person goes to Tokyo by Shinkansen.
+
+
+* **Example 3:**
+* **Kanji:** サミットさんは歩いて大学へ来ます。
+* **Without Kanji:** サミットさんはあるいてだいがくへきます。
+* **Romaji:** Samitto-san wa aruite daigaku e kimasu.
+* **Translation:** Sumedh comes to the university on foot.
+
+
+* **Exception / Special Note:** When walking on foot, you use **歩いて** (*aruite*) instead of taking a vehicle, and you do **not** use the particle **で** after it.
+
+---
+
+**3. [Person] と [Place] へ 行きます / 来ます / 帰ります (Doing something with a Companion)**
+
+* **Simple Explanation:** The particle **と** (*to*) means "with" when attached to a person. It indicates who you are performing the action alongside.
+* **Example 1:**
+* **Kanji:** わたしは友達と東京へ行きます。
+* **Without Kanji:** わたしはともだちととうきょうへいきます。
+* **Romaji:** Watashi wa tomodachi to Tōkyō e ikimasu.
+* **Translation:** I will go to Tokyo with a friend.
+
+
+* **Example 2:**
+* **Kanji:** 家族と日本へ来ました。
+* **Without Kanji:** かぞくとにほんへきました。
+* **Romaji:** Kazoku to Nihon e kimashita.
+* **Translation:** I came to Japan with my family.
+
+
+* **Example 3:**
+* **Kanji:** サミットさんは一人で大学へ行きます。
+* **Without Kanji:** サミットさんはひとりでだいがくへいきます。
+* **Romaji:** Samitto-san wa hitori de daigaku e ikimasu.
+* **Translation:** Sumedh goes to the university alone.
+
+
+* **Exception / Special Note:** To say "alone" or "by oneself", use **一人で** (*hitori de*), which uses the particle **で** rather than **と**.
+
+---
+
+**4. [Time] に [Action] (Specific Point in Time)**
+
+* **Simple Explanation:** The particle **に** (*ni*) is attached to specific calendar dates, days of the week, or exact clock times to show when an action takes place.
+* **Example 1:**
+* **Kanji:** わたしは日曜日に行きます。
+* **Without Kanji:** わたしはにちようびにいきます。
+* **Romaji:** Watashi wa nichiyoubi ni ikimasu.
+* **Translation:** I will go on Sunday.
+
+
+* **Example 2:**
+* **Kanji:** サミットさんは5月1日に来ました。
+* **Without Kanji:** サミットさんは5がつ1にちにきました。
+* **Romaji:** Samitto-san wa gogatsu tsuitachi ni kimashita.
+* **Translation:** Sumedh came on May 1st.
+
+
+* **Example 3:**
+* **Kanji:** 誕生日に行きます。
+* **Without Kanji:** たんじょうびにいきます。
+* **Romaji:** Tanjoubi ni ikimasu.
+* **Translation:** I will go on my birthday.
+
+
+* **Exception / Special Note:** Words relative to the current moment like **今日** (*kyou* - today), **明日** (*ashita* - tomorrow), **昨日** (*kinou* - yesterday), **今週** (*konshuu* - this week), or **いつ** (*itsu* - when) do **not** take the particle **に**.
+
+---
+
+**5. いつ (When), ～から (From), and ～まで (Until/To)**
+
+* **Simple Explanation:** **いつ** (*itsu*) means "when". **から** (*kara*) means "from", and **まで** (*made*) means "until" or "to" when marking time spans or locations.
+* **Example 1:**
+* **Kanji:** いつ日本へ来ましたか。
+* **Without Kanji:** いつにほんへきましたか。
+* **Romaji:** Itsu Nihon e kimashita ka.
+* **Translation:** When did you come to Japan?
+
+
+* **Example 2:**
+* **Kanji:** 会社は月曜日から金曜日までです。
+* **Without Kanji:** かいしゃはげつようびからきんようびまでです。
+* **Romaji:** Kaisha wa getsuyoubi kara kinyoubi made desu.
+* **Translation:** The office is open from Monday to Friday.
+
+
+* **Example 3:**
+* **Kanji:** 東京から京都まで行きます。
+* **Without Kanji:** とうきょうからきょうとまでいきます。
+* **Romaji:** Tōkyō kara Kyōto made ikimasu.
+* **Translation:** I will go from Tokyo to Kyoto.
+
+
+* **Exception / Special Note:** **から** and **まで** can be used independently or combined together as **～から～まで** to specify a complete duration or geographical span.
+
+---
+
+**6. Irregular Date Counters & Time Exceptions**
+
+* **Simple Explanation:** The first 10 days of the month, plus the 14th and 20th, use traditional native Japanese readings instead of standard numerical counters. Furthermore, relative time words and question words never require the particle **に**.
+* **Example 1:**
+* **Kanji:** サミットさんは5月1日に行きます。
+* **Without Kanji:** サミットさんは5がつついたちに行きます。
+* **Romaji:** Samitto-san wa gogatsu tsuitachi ni ikimasu.
+* **Translation:** Sumedh will go on May 1st.
+
+
+* **Example 2:**
+* **Kanji:** 私は20日に東京へ行きます。
+* **Without Kanji:** わたしははつかにとうきょうへいきます。
+* **Romaji:** Watashi wa hatsuka ni Tōkyō e ikimasu.
+* **Translation:** I will go to Tokyo on the 20th.
+
+
+* **Example 3:**
+* **Kanji:** 明日東京へ行きます。
+* **Without Kanji:** あしたとうきょうへいきます。
+* **Romaji:** Ashita Tōkyō e ikimasu.
+* **Translation:** I will go to Tokyo tomorrow.
+
+
+* **Exception / Special Note:** Memorize these critical irregular calendar dates: 1日 (*tsuitachi*), 2日 (*futsuka*), 3日 (*mikka*), 4日 (*yokka*), 5日 (*itsuka*), 6日 (*muika*), 7日 (*nanoka*), 8日 (*youka*), 9日 (*kokonoka*), 10日 (*tooka*), 14日 (*juuyokka*), and 20日 (*hatsuka*). Remember that **今日** (*kyou*), **明日** (*ashita*), **昨日** (*kinou*), **今週** (*konshuu*), and **いつ** (*itsu*) never take **に**.

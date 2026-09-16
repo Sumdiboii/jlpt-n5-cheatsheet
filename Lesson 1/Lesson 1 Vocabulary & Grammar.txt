@@ -1,0 +1,176 @@
+**Lesson 1 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **私 (わたし, watashi)** – I
+* **あなた (anata)** – You
+* **あの人 (あのひと, ano hito)** – That person
+* **あの方 (あのかた, ano kata)** – That person (polite)
+* **皆さん (みなさん, minasan)** – Everyone
+* **先生 (せんせい, sensei)** – Teacher / Instructor
+* **教師 (きょうし, kyoushi)** – Teacher / Instructor (when talking about one's own job)
+* **学生 (がくせい, gakusei)** – Student
+* **会社員 (かいしゃいん, kaishain)** – Company employee
+* **社員 (しゃいん, shain)** – Employee of ~ company
+* **銀行員 (ぎんこういん, ginkouin)** – Bank employee
+* **医者 (いしゃ, isha)** – Doctor
+* **研究者 (けんきゅうしゃ, kenkyuusha)** – Researcher
+* **エンジニア (enjinia)** – Engineer
+* **大学 (だいがく, daigaku)** – University
+* **病院 (びょういん, byouin)** – Hospital
+* **誰 / どなた (dare / donata)** – Who / Who (polite)
+* **～歳 (～さい, ~sai)** – Years old
+* **何歳 / おいくつ (なんさい / oikutsu)** – How old / How old (polite)
+* **日本 (にほん, nihon)** – Japan
+* **アメリカ (amerika)** – America
+* **イギリス (igirisu)** – Britain / UK
+* **インド (indo)** – India
+* **日本人 (にほんじん, nihon-jin)** – Japanese person
+* **アメリカ人 (アメリカじん, amerika-jin)** – American (nationality suffix)
+* **名前 (なまえ, namae)** – Name
+* **初めまして (はじめまして, hajimemashite)** – How do you do? / Nice to meet you
+* **～から来ました (～からきました, ~kara kimashita)** – I came from ~
+* **どうぞよろしく (douzo yoroshiku)** – Pleased to meet you
+* **失礼ですが (しつれいですが, shitsurei desu ga)** – Excuse me, but...
+denki - electricity
+
+---
+
+**Grammar Concepts & Examples (Lesson 1)**
+
+**1. [Noun 1] は [Noun 2] です (A is B)**
+
+* **Simple Explanation:** **は** (pronounced *wa*) points out the main topic of your sentence (what you are talking about). **です** is a polite word like "is" or "am" that finishes your sentence nicely.
+* **Example 1:**
+* **Kanji:** わたしは学生です。
+* **Without Kanji:** わたしはがくせいです。
+* **Romaji:** Watashi wa gakusei desu.
+* **Translation:** I am a student.
+
+
+* **Example 2:**
+* **Kanji:** あの人は先生です。
+* **Without Kanji:** あのひとはせんせいです。
+* **Romaji:** Ano hito wa sensei desu.
+* **Translation:** That person is a teacher.
+
+
+* **Example 3:**
+* **Kanji / Kana:** サミットさんはエンジニアです。
+* **Romaji:** Samitto-san wa enjinia desu.
+* **Translation:** Sumedh is an engineer.
+
+
+* **Exception / Special Note:** Even though the Japanese letter is **は** (ha), when it acts as the topic marker particle, it is **always** read out loud as "**wa**".
+
+---
+
+**2. [Noun 1] は [Noun 2] じゃありません (A is not B)**
+
+* **Simple Explanation:** This is how you say something is **not** true. **じゃありません** means "is not" or "am not" in everyday conversational Japanese.
+* **Example 1:**
+* **Kanji:** わたしは医者じゃありません。
+* **Without Kanji:** わたしはいしゃじゃありません。
+* **Romaji:** Watashi wa isha ja arimasen.
+* **Translation:** I am not a doctor.
+
+
+* **Example 2:**
+* **Kanji:** あの人は学生じゃありません。
+* **Without Kanji:** あのひとはがくせいじゃありません。
+* **Romaji:** Ano hito wa gakusei ja arimasen.
+* **Translation:** That person is not a student.
+
+
+* **Example 3:**
+* **Kanji:** ジョンさんは日本人じゃありません。
+* **Without Kanji:** ジョンさんはにほんじんじゃありません。
+* **Romaji:** Jon-san wa nihon-jin ja arimasen.
+* **Translation:** John is not Japanese.
+
+
+* **Exception / Special Note:** In very formal writing or business speeches, **ではありません** (*dewa arimasen*) is used instead of **じゃありません**, though both mean the exact same thing.
+
+---
+
+**3. [Sentence] か (Turning a statement into a Question)**
+
+* **Simple Explanation:** In Japanese, you don't need to flip your word order to ask a question. You just take a normal sentence and stick **か** right at the very end like a verbal question mark.
+* **Example 1:**
+* **Kanji:** あなたは学生ですか。
+* **Without Kanji:** あなたはがくせいですか。
+* **Romaji:** Anata wa gakusei desu ka.
+* **Translation:** Are you a student?
+
+
+* **Example 2:**
+* **Kanji:** あの人はエンジニアですか。
+* **Without Kanji:** あのひとはエンジニアですか。
+* **Romaji:** Ano hito wa enjinia desu ka.
+* **Translation:** Is that person an engineer?
+
+
+* **Example 3:**
+* **Kanji:** サミットさんはインド人ですか。
+* **Without Kanji:** サミットさんはインドじんですか。
+* **Romaji:** Samitto-san wa indo-jin desu ka.
+* **Translation:** Is Sumedh Indian?
+
+
+* **Exception / Special Note:** Never put a traditional question mark (**?**) at the end of a Japanese sentence if you are writing formally. The particle **か** completely replaces it.
+
+---
+
+**4. [Noun 1] も [Noun 2] です (A is also B)**
+
+* **Simple Explanation:** Use the particle **も** (*mo*) when you want to say "also" or "too" because something matches a pattern you just talked about.
+* **Example 1:**
+* **Kanji:** わたしは学生です。ミラーさんも学生です。
+* **Without Kanji:** わたしはがくせいです。ミラーさんもがくせいです。
+* **Romaji:** Watashi wa gakusei desu. Miraa-san mo gakusei desu.
+* **Translation:** I am a student. Mr. Miller is **also** a student.
+
+
+* **Example 2:**
+* **Kanji:** わたしはインド人です。サミットさんもインド人です。
+* **Without Kanji:** わたしはインドじんです。サミットさんもインドじんです。
+* **Romaji:** Watashi wa indo-jin desu. Samitto-san mo indo-jin desu.
+* **Translation:** I am Indian. Sumedh is **also** Indian.
+
+
+* **Example 3:**
+* **Kanji:** わたしは会社員です。あの人も会社員です。
+* **Without Kanji:** わたしはかいしゃいんです。あのひともかいしゃいんです。
+* **Romaji:** Watashi wa kaishain desu. Ano hito mo kaishain desu.
+* **Translation:** I am a company employee. That person is **also** a company employee.
+
+
+* **Exception / Special Note:** **も** completely replaces the topic marker **は**. You never say *watashi wa mo desu*; it must always be *watashi mo desu*.
+
+---
+
+**5. [Noun 1] の [Noun 2] (Noun 1 modifies Noun 2 / Possessive)**
+
+* **Simple Explanation:** The particle **の** (*no*) connects two nouns. Usually, Noun 1 describes or owns Noun 2 (think of it like an apostrophe-s `'s` in English, or like combining two nouns into a compound noun).
+* **Example 1:**
+* **Kanji:** 私の名前はサミットです。
+* **Without Kanji:** わたしのなまえはサミットです。
+* **Romaji:** Watashi no namae wa samitto desu.
+* **Translation:** My name is Sumedh. *(Lit: The name of me)*
+
+
+* **Example 2:**
+* **Kanji:** これは大学の先生です。
+* **Without Kanji:** これはだいがくのせんせいです。
+* **Romaji:** Kore wa daigaku no sensei desu.
+* **Translation:** This is a university teacher.
+
+
+* **Example 3:**
+* **Kanji:** わたしはパトス会社の社員です。
+* **Without Kanji:** わたしはパトスかいしゃのしゃいんです。
+* **Romaji:** Watashi wa patosu-gaisha no shain desu.
+* **Translation:** I am an employee of Pathos Company.
+
+
+* **Exception / Special Note:** Word order is reversed compared to English in terms of ownership modifiers. In English, you say "University Teacher"; in Japanese, it is literally "University **'s** Teacher" (*daigaku no sensei*).

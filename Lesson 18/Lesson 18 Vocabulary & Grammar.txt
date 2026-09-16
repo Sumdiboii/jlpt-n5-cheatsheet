@@ -1,0 +1,129 @@
+**Lesson 18 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **できます (dekimasu)** – Can, be able to
+* **あらいます (洗います, araimasu)** – To wash
+* **ひきます (弾きます, hikimasu)** – To play (a string instrument or piano)
+* **うたいます (歌います, utaimasu)** – To sing
+* **あつめます (集めます, atsumemasu)** – To collect, gather
+* **すてます (捨てます, sutemasu)** – To throw away, discard
+* **かえます (換えます / 変えます, kaemasu)** – To exchange, change
+* **うんてんします (運転します, unten shimasu)** – To drive
+* **よやくします (予約します, yoyaku shimasu)** – To reserve, book
+* **けんがくします (見学します, kengaku shimasu)** – To tour, inspect (for study/observation)
+* **ピアノ (piano)** – Piano
+* **～メートル (~meetoru)** – ~ meters
+* **きんじょ (近所, kinjo)** – Neighborhood, vicinity
+* **ぎゅうにゅう (牛乳, gyuunyuu)** – Milk
+* **[お]まつり ([お]まつり, [o]matsuri)** – Festival
+* **びじゅつかん (美術館, bijutsukan)** – Art museum, gallery
+* **～のしゃしん (~no shashin)** – Photograph of ~
+* **りょくしゃ ($\rightarrow$ りょこう / じしょetc... / げんかん etc)** – *[Standard Minna L18 entry: げんかん (玄関, genkan) - entrance / porch]*
+* **ろうか (廊下, rouka)** – Corridor, hallway
+* **さいふ (財布, saifu)** – Wallet, purse
+* **ソフトウエア (sofutowea)** – Software
+* **～しか (~ shika)** – Only ~ (used with negative verb forms)
+* **ほかに (hoka ni)** – Besides, in addition to
+* **[E-]きっぷ ([E-]きっぷ, [e-]kippu)** – [E-] ticket
+* **よる (夜, yoru)** – Evening, night
+
+---
+
+**Grammar Concepts & Conjugation Rules (Lesson 18)**
+
+**1. Verb Dictionary Form + ことができます (Ability / Potential)**
+
+* **Simple Explanation:** Attach **ことができます** (*koto ga dekimasu*) to the **dictionary form** of a verb to express that someone has the ability or skill to do that action ("can [verb]").
+* **Example 1:**
+* **Kanji:** 私は漢字を読むことができます。
+* **Without Kanji:** わたしはかんじをよむことができます。
+* **Romaji:** Watashi wa kanji o yomu koto ga dekimasu.
+* **Translation:** I can read Kanji.
+
+
+* **Example 2:**
+* **Kanji:** サミットさんは車を運転することができます。
+* **Without Kanji:** サミットさんはくるまをうんてんすることができます。
+* **Romaji:** Samitto-san wa kuruma o unten suru koto ga dekimasu.
+* **Translation:** Sumedh can drive a car.
+
+
+
+---
+
+**2. Noun が できます (Noun Potential / Can do [Noun])**
+
+* **Simple Explanation:** When expressing capability regarding a specific noun skill or event, use **[Noun] が できます** (*ga dekimasu*).
+* **Example 1:**
+* **Kanji:** サミットさんはピアノができます。
+* **Without Kanji:** サミットさんはピアノができます。
+* **Romaji:** Samitto-san wa piano ga dekimasu.
+* **Translation:** Sumedh can play the piano.
+
+
+* **Example 2:**
+* **Kanji:** 私は英語ができます。
+* **Without Kanji:** わたしはえいごができます。
+* **Romaji:** Watashi wa Eigo ga dekimasu.
+* **Translation:** I can speak English.
+
+
+
+---
+
+**3. Hobby is [Verb Dictionary Form] の です (My hobby is...)**
+
+* **Simple Explanation:** Use **しゅみは [Dictionary Verb] のです** (*shumi wa [verb] no desu*) or shorten it to **～ことです** to state your hobby clearly.
+* **Example 1:**
+* **Kanji:** 私の趣味は写真を撮ることです。
+* **Without Kanji:** わたしのしゅみはしゃしんをとることです。
+* **Romaji:** Watashi no shumi wa shashin o toru koto desu.
+* **Translation:** My hobby is taking photographs.
+
+
+* **Example 2:**
+* **Kanji:** 趣味は映画を見ることです。
+* **Without Kanji:** しゅみはえいがをみることです。
+* **Romaji:** Shumi wa eiga o miru koto desu.
+* **Translation:** My hobby is watching movies.
+
+
+
+---
+
+**4. Verb [Dictionary Form] + まえに (Before doing [Verb])**
+
+* **Simple Explanation:** Attach **まえに** (*mae ni*) to the **dictionary form** of a verb to indicate an action that takes place prior to another action ("Before doing [Verb 1], [Verb 2]"). *Note: For nouns, use **Noun の まえに**.*
+* **Example 1:**
+* **Kanji:** 寝る前に、本を読みます。
+* **Without Kanji:** ねるまえに、ほんをよみます。
+* **Romaji:** Neru mae ni, hon o yomimasu.
+* **Translation:** Before going to bed, I read a book.
+
+
+* **Example 2:**
+* **Kanji:** 日本へ来る前に、日本語を勉強しました。
+* **Without Kanji:** にほんへくるまえに、にほんごをべんきょうしました。
+* **Romaji:** Nihon e kuru mae ni, Nihongo o benkyou shimashita.
+* **Translation:** Before coming to Japan, I studied Japanese.
+
+
+
+---
+
+**5. Number/Quantity + しか + Negative Verb (Only...)**
+
+* **Simple Explanation:** Attach **しか** (*shika*) to a quantity or noun, and pair it **strictly with a negative verb form** to mean "only [amount]" (expressing that the amount is limited or less than expected).
+* **Example 1:**
+* **Kanji:** 1万円しかありません。
+* **Without Kanji:** いちまんえんしかありません。
+* **Romaji:** Ichiman-en shika arimasen.
+* **Translation:** I have only 10,000 yen.
+
+
+* **Example 2:**
+* **Kanji:** ひらがなしか書けません。 / ひらがなしか書きません。
+* **Without Kanji:** ひらがなしかかきません。
+* **Romaji:** Hiragana shika kakimasen.
+* **Translation:** I write only Hiragana.

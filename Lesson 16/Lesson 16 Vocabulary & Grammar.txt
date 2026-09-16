@@ -1,0 +1,171 @@
+**Lesson 16 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **のります (乗ります, norimasu)** – To ride, get on [a train: 電車に～]
+* **おります (降ります, orimasu)** – To get off [a train: 電車を～]
+* **のりかえます (乗り換えます, norikaemasu)** – To change (trains, buses)
+* **あびます (浴びます, abimasu)** – To take [a shower: シャワーを～]
+* **いれます (入れます, iremasu)** – To put in, insert
+* **だします (出します, dashimasu)** – To take out, hand in, withdraw [money: お金を～]
+* **はいります (入ります, hairimasu)** – To enter [university: 大学に～]
+* **でます (出ます, demasu)** – To graduate from [university: 大学を～]
+* **やめます (やめます, yamemasu)** – To quit, retire, stop [a company: 会社を～]
+* **おします (押します, oshimasu)** – To push, press
+* **わかい (若い, wakai)** – Young
+* **ながい (長い, nagai)** – Long
+* **みじかい (短い, mijikai)** – Short
+* **あかるい (明るい, akarui)** – Bright, cheerful
+* **くらいい (暗い, kurai)** – Dark
+* **せがたかい (背が高い, se ga takai)** – Tall (person)
+* **あたまがいい (頭がいい, atama ga ii)** – Smart, clever
+* **からだ (体, karada)** – Body, health
+* **あたま (頭, atama)** – Head, brain
+* **かみ (髪, kami)** – Hair
+* **かお (顔, kao)** – Face
+* **め (目, me)** – Eye
+* **みみ (耳, mimi)** – Ear
+* **くち (口, kuchi)** – Mouth
+* **おなか (onaka)** – Stomach
+* **あし (足, ashi)** – Leg, foot
+* **サービス (saabisu)** – Service
+* **ジョギング (jogingu)** – Jogging
+* **シャワー (shawaa)** – Shower
+* **みどり (緑, midori)** – Greenery, green
+* **おてら (お寺, otera)** – Buddhist temple
+* **じんじゃ (神社, jinja)** – Shinto shrine
+* **りゅうがくせい (留学生, ryuugakusei)** – Foreign student
+* **バン (ban)** – Number (e.g., 1番 - number 1)
+* **どうやって (dou yatte)** – How, in what way
+* **どの～ (dono~)** – Which ~ (of three or more)
+* **どれ (dore)** – Which one (of three or more)
+
+---
+
+**Grammar Concepts & Conjugation Rules (Lesson 16)**
+
+**1. Connecting Sequential Actions (Verb て形, Verb て形, ... Verb ます/ました)**
+
+* **Simple Explanation:** To describe a sequence of two or more actions in chronological order, use the **て-form** for all intermediate verbs. The tense (present or past) is determined solely by the final verb in the sentence.
+* **Example 1:**
+* **Kanji:** 朝起きて、朝ごはんを食べて、学校へ行きます。
+* **Without Kanji:** あさおきて、あさごはんをたべて、がっこうへいきます。
+* **Romaji:** Asa okite, asagohan o tabete, gakkou e ikimasu.
+* **Translation:** In the morning I wake up, eat breakfast, and go to school.
+
+
+* **Example 2:**
+* **Kanji:** 昨日銀行へ行って、お金を出して、買い物をしました。
+* **Without Kanji:** きのうぎんこうへいって、おかねをだして、かいものをしました。
+* **Romaji:** Kinou ginkou e itte, okane o dashite, kaimono o shimashita.
+* **Translation:** Yesterday I went to the bank, withdrew money, and did some shopping.
+
+
+
+---
+
+**2. Verb て形 + から (After doing [Verb 1], [Verb 2])**
+
+* **Simple Explanation:** Attach **から** (*kara*) to the **て-form** of Verb 1 to mean "after doing [Verb 1], do [Verb 2]". It emphasizes that Verb 1 must finish before Verb 2 begins.
+* **Example 1:**
+* **Kanji:** 仕事が終わってから、飲みに行きます。
+* **Without Kanji:** しごとがおわってから、のみにいきます。
+* **Romaji:** Shigoto ga owatte kara, nomi ni ikimasu.
+* **Translation:** After work finishes, I will go out for a drink.
+
+
+* **Example 2:**
+* **Kanji:** コンサートが終わってから、レストランで食事をしました。
+* **Without Kanji:** コンサートがおわってから、レストランでしょくじをしました。
+* **Romaji:** Konsaato ga owatte kara, resutoran de shokuji o shimashita.
+* **Translation:** After the concert ended, we had a meal at a restaurant.
+
+
+
+---
+
+**3. Describing Features of a Specific Subject (Noun 1 は Noun 2 が [Adjective])**
+
+* **Simple Explanation:** When describing a specific feature or body part of a person, place, or thing, state the topic with **は** (*wa*), then mark the specific body part/attribute with **が** (*ga*), followed by the adjective.
+* **Example 1:**
+* **Kanji:** サミットさんは背が高いです。
+* **Without Kanji:** サミットさんはせがたかいです。
+* **Romaji:** Samitto-san wa se ga takai desu.
+* **Translation:** Sumedh is tall (literally: As for Sumedh, height is high).
+
+
+* **Example 2:**
+* **Kanji:** マリアさんは目が大きいです。
+* **Without Kanji:** マリアさんはめがおおきいです。
+* **Romaji:** Maria-san wa me ga ookii desu.
+* **Translation:** Maria has big eyes.
+
+
+* **Example 3:**
+* **Kanji:** 京都は緑が多いです。
+* **Without Kanji:** きょうとはみどりがおいからです。 / きょうとはみどりがおおいです。
+* **Romaji:** Kyouto wa midori ga多い desu / Kyouto wa midori ga ooi desu.
+* **Translation:** Kyoto has a lot of greenery.
+
+
+
+---
+
+**4. Modifying and Joining Adjectives (い-adj / な-adj / Nouns)**
+
+* **Simple Explanation:**
+* **い-adjectives:** Drop **い** and add **くて** (*e.g., 大きい $\rightarrow$ 大きくて; 明るい $\rightarrow$ 明るくて*). **Exception:** いい $\rightarrow$ よくて.
+* **な-adjectives & Nouns:** Add **で** (*e.g., 親切 $\rightarrow$ 親切で; 学生 $\rightarrow$ 学生で*).
+
+
+* **Example 1 (い-adj):**
+* **Kanji:** この部屋は広くて、明るいです。
+* **Without Kanji:** このへやはひろくて、あかるいです。
+* **Romaji:** Kono heya wa hirokte, akarui desu.
+* **Translation:** This room is spacious and bright.
+
+
+* **Example 2 (な-adj):**
+* **Kanji:** ミラーさんは親切で、おもしろいです。
+* **Without Kanji:** ミラーさんはしんせつで、おもしろいです。
+* **Romaji:** Miraa-san wa shinsetsu de, omoshiroi desu.
+* **Translation:** Mr. Miller is kind and interesting.
+
+
+* **Example 3 (Noun):**
+* **Kanji:** カリナさんはブラジル人で、留学生です。
+* **Without Kanji:** カリナさんはブラジルじんで、りゅうがくせいです。
+* **Romaji:** Karina-san wa Burajiru-jin de, ryuugakusei desu.
+* **Translation:** Karina is Brazilian and an exchange student.
+
+
+
+---
+
+**5. Interrogatives for Selection (どれ / どの Noun / どうやって)**
+
+* **Simple Explanation:**
+* **どれ (*dore*):** "Which one?" (among 3 or more options).
+* **どの Noun (*dono Noun*):** "Which [Noun]?" (among 3 or more options).
+* **どうやって (*dou yatte*):** "How / In what way?" (asking for directions or method).
+
+
+* **Example 1:**
+* **Kanji:** サミットさんの傘はどれですか。
+* **Without Kanji:** サミットさんのかさはどれですか。
+* **Romaji:** Samitto-san no kasa wa dore desu ka.
+* **Translation:** Which one is Sumedh's umbrella?
+
+
+* **Example 2:**
+* **Kanji:** サミットさんはどの人ですか。
+* **Without Kanji:** サミットさんはどのひとですか。
+* **Romaji:** Samitto-san wa dono hito desu ka.
+* **Translation:** Which person is Sumedh?
+
+
+* **Example 3:**
+* **Kanji:** 大学までどうやって行きますか。
+* **Without Kanji:** だいがくまでどうやっていきますか。
+* **Romaji:** Daigaku made dou yatte ikimasu ka.
+* **Translation:** How do you get to the university?

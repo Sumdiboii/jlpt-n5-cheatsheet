@@ -1,0 +1,256 @@
+**Lesson 8 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **ハンサム[な] (ハンサム[な], hansamu [na])** – Handsome
+* **きれい[な] (きれい[な], kirei [na])** – Beautiful / Clean
+* **静か[な] (しずか[な], shizuka [na])** – Quiet
+* **賑やか[な] (にぎやか[な], nigiyaka [na])** – Lively / Bustling
+* **有名[な] (ゆうめい[な], yuumei [na])** – Famous
+* **親切[な] (しんせつ[な], shinsetsu [na])** – Kind / Helpful
+* **元気[な] (げんき[な], genki [na])** – Healthy / Energetic / Well
+* **暇[な] (ひま[な], hima [na])** – Free (time) / Not busy
+* **便利[な] (べんり[な], benri [na])** – Convenient
+* **素敵[な] (すてき[な], suteki [na])** – Fine / Nice / Lovely
+* **大きい (おおきい, ookii)** – Big / Large
+* **小さい (ちいさい, chiisai)** – Small
+* **新しい (あたらしい, atarashii)** – New / Fresh
+* **古い (ふるい, furui)** – Old (not applied to people)
+* **いい (よい) (いい/よい, ii / yoi)** – Good
+* **悪い (わるい, warui)** – Bad
+* **暑い / 熱い (あつい, atsui)** – Hot (weather / temperature to touch)
+* **寒い (さむい, samui)** – Cold (weather)
+* **冷たい (つめたい, tsumetai)** – Cold (to the touch / drinks)
+* **難しい (むずかしい, muzukashii)** – Difficult
+* **易しい (やさしい, yasashii)** – Easy / Simple
+* **高い (たかい, takai)** – Expensive / Tall / High
+* **安い (やすい, yasui)** – Cheap / Inexpensive
+* **低い (ひくい, hikui)** – Low
+* **面白い (おもしろい, omoshiroi)** – Interesting / Funny
+* **美味しい (おいしい, oishii)** – Delicious / Tasty
+* **忙しい (いそがしい, isogashii)** – Busy
+* **楽しい (たのしい, tanoshii)** – Enjoyable / Fun
+* **白い (しろい, shiroi)** – White
+* **黒い (くろい, kuroi)** – Black
+* **赤い (あかい, akai)** – Red
+* **青い (あおい, aoi)** – Blue
+* **桜 (さくら, sakura)** – Cherry blossom
+* **山 (やま, yama)** – Mountain
+* **町 (まち, machi)** – Town / City
+* **食べ物 (たべもの, tabemono)** – Food
+* **車 (くるま, kuruma)** – Car / Vehicle
+* **所 (ところ, tokoro)** – Place
+* **寮 (りょう, ryou)** – Dormitory
+* **勉強 (べんきょう, benkyou)** – Study
+* **生活 (せいかつ, seikatsu)** – Life / Living
+* **[お]仕事 ([お]しごと, [o]shigoto)** – Work / Business (*[お]仕事をする: to work*)
+* **どう (どう, dou)** – How
+* **どんな (どんな, donna)** – What kind of
+* **どれ (どれ, dore)** – Which one (of three or more)
+* **とても (とても, totemo)** – Very
+* **あまり (あまり, amari)** – Not very / Not much *(used with negative)*
+* **そして (そして, soshite)** – And / And then *(connecting sentences)*
+* **～が、～ (～が、～, ~ga, ~)** – ..., but ...
+* **お元気ですか (おげんきですか, ogenki desu ka)** – How are you?
+* **そうですね (そうですね, sou desu ne)** – Well, let me see / That's right
+* **富士山 (ふじさん, Fujisan)** – Mt. Fuji
+
+---
+
+**Grammar Concepts & Examples (Lesson 8)**
+
+**1. Noun は [な-Adjective] です / じゃありません (Na-Adjective Predicates)**
+
+* **Simple Explanation:** When using **な-adjectives** as sentence predicates, drop the **～な** ending when attached directly before **です** in positive sentences. To make the sentence negative, replace **です** with **じゃありません** (or the more formal **ではありません**).
+* **Example 1:**
+* **Kanji:** 山田さんは親切です。
+* **Without Kanji:** やまださんはしんせつです。
+* **Romaji:** Yamada-san wa shinsetsu desu.
+* **Translation:** Mr. Yamada is kind.
+* **Example 2:**
+* **Kanji:** この町は静かじゃありません。
+* **Without Kanji:** このまちはしずかじゃありません。
+* **Romaji:** Kono machi wa shizuka ja arimasen.
+* **Translation:** This town is not quiet.
+* **Example 3:**
+* **Kanji:** サミットさんの部屋はきれいではありません。
+* **Without Kanji:** サミットさんのへやはきれいではありません。
+* **Romaji:** Samitto-san no heya wa kirei de wa arimasen.
+* **Translation:** Sumedh's room is not clean.
+* **Exception / Special Note:** Words like **きれい** (*kirei*) and **有名** (*yuumei*) end with an *i* sound, but they are grammatically **な-adjectives** (e.g., *kirei ja arimasen*, not *kirekunai desu*).
+
+---
+
+**2. Noun は [い-Adjective] です / [～くない] です (I-Adjective Predicates)**
+
+* **Simple Explanation:** **い-adjectives** retain their final **～い** before **です** in present affirmative sentences. To express the negative form, drop the final **～い** and attach **～くないです** (or **～くありません**).
+* **Example 1:**
+* **Kanji:** 富士山は高いです。
+* **Without Kanji:** ふじさんはたかいです。
+* **Romaji:** Fujisan wa takai desu.
+* **Translation:** Mt. Fuji is high.
+* **Example 2:**
+* **Kanji:** この本は面白くないです。
+* **Without Kanji:** このほんはおもしろくないです。
+* **Romaji:** Kono hon wa omoshirokunai desu.
+* **Translation:** This book is not interesting.
+* **Example 3:**
+* **Kanji:** サミットさんの車は新しくないです。
+* **Without Kanji:** サミットさんのくるまはあたらしくないです。
+* **Romaji:** Samitto-san wa atarashikunai desu.
+* **Translation:** Sumedh's car is not new.
+* **Exception / Special Note:** The adjective **いい** (*ii* - good) is irregular in its negative form. It changes its stem to **よくないです** (*yokunai desu*).
+
+---
+
+**3. Modifying Nouns with Adjectives ([な-Adj] な Noun / [い-Adj] Noun)**
+
+* **Simple Explanation:** When an adjective directly modifies a noun placed after it, **な-adjectives** keep their **な** ending, whereas **い-adjectives** attach directly in their base **～い** form.
+* **Example 1:**
+* **Kanji:** ワット先生は親切な先生です。
+* **Without Kanji:** ワットせんせいはしんせつなせんせいです。
+* **Romaji:** Watto-sensei wa shinsetsu na sensei desu.
+* **Translation:** Mr. Watt is a kind teacher.
+* **Example 2:**
+* **Kanji:** これは古い本です。
+* **Without Kanji:** これはふるいほんです。
+* **Romaji:** Kore wa furui hon desu.
+* **Translation:** This is an old book.
+* **Example 3:**
+* **Kanji:** サミットさんは大きい会社で働きます。
+* **Without Kanji:** サミットさんはおおきいかいしゃではたらきます。
+* **Romaji:** Samitto-san wa ookii kaisha de hatarakimasu.
+* **Translation:** Sumedh works at a big company.
+* **Exception / Special Note:** Never place **な** between an **い-adjective** and a noun (*takai na hon* is incorrect; it must be *takai hon*).
+
+---
+
+**4. Adverbs of Degree: とても and あまり**
+
+* **Simple Explanation:** Degree adverbs are placed immediately before the adjective they modify. **とても** (*very*) pairs with positive adjectives, while **あまり** (*not very*) **must** pair with negative adjectives.
+* **Example 1:**
+* **Kanji:** 日本の食べ物はとても美味しいです。
+* **Without Kanji:** にほんのたべものはとてもおいしいです。
+* **Romaji:** Nihon no tabemono wa totemo oishii desu.
+* **Translation:** Japanese food is very delicious.
+* **Example 2:**
+* **Kanji:** この辞書はあまり便利じゃありません。
+* **Without Kanji:** このじしょはあまりべんりじゃありません。
+* **Romaji:** Kono jisho wa amari benri ja arimasen.
+* **Translation:** This dictionary is not very convenient.
+* **Example 3:**
+* **Kanji:** サミットさんはあまり忙しくないです。
+* **Without Kanji:** サミットさんはあまりいそがしくないです。
+* **Romaji:** Samitto-san wa amari isogashikunai desu.
+* **Translation:** Sumedh is not very busy.
+* **Exception / Special Note:** **あまり** cannot be paired with an affirmative verb or adjective; it strictly requires a negative sentence ending.
+
+---
+
+**5. Noun は どうですか (Asking for Opinions / Impressions)**
+
+* **Simple Explanation:** Use this phrase to ask someone for their impression, experience, or opinion regarding a place, activity, or item (e.g., "How is [Noun]?").
+* **Example 1:**
+* **Kanji:** 日本の生活はどうですか。
+* **Without Kanji:** にほんのせいかつはどうですか。
+* **Romaji:** Nihon no seikatsu wa dou desu ka.
+* **Translation:** How is life in Japan?
+* **Example 2:**
+* **Kanji:** 大学の寮はどうですか。
+* **Without Kanji:** だいがくのりょうはどうですか。
+* **Romaji:** Daigaku no ryou wa dou desu ka.
+* **Translation:** How is the university dormitory?
+* **Example 3:**
+* **Kanji:** サミットさん、仕事はどうですか。
+* **Without Kanji:** サミットさん、しごとはどうですか。
+* **Romaji:** Samitto-san, shigoto wa dou desu ka.
+* **Translation:** Sumedh, how is work?
+* **Exception / Special Note:** When replying to **どうですか**, directly state your adjective/impression (e.g., *Oishii desu*) without repeating the noun topic.
+
+---
+
+**6. Noun 1 は どんな Noun 2 ですか (Asking for Description / Category)**
+
+* **Simple Explanation:** Used when asking for a detailed description or character of **Noun 1**. **Noun 2** denotes the category (town, food, person, etc.) to which Noun 1 belongs.
+* **Example 1:**
+* **Kanji:** 奈良はどんな町ですか。
+* **Without Kanji:** ならはいまどんなまちですか。
+* **Romaji:** Nara wa donna machi desu ka.
+* **Translation:** What kind of town is Nara?
+* **Example 2:**
+* **Kanji:** 富士山はどんな山ですか。
+* **Without Kanji:** ふじさんはどんなやまですか。
+* **Romaji:** Fujisan wa donna yama desu ka.
+* **Translation:** What kind of mountain is Mt. Fuji?
+* **Example 3:**
+* **Kanji:** サミットさんはどんな人ですか。
+* **Without Kanji:** サミットさんはどんなひとですか。
+* **Romaji:** Samitto-san wa donna hito desu ka.
+* **Translation:** What kind of person is Sumedh?
+* **Exception / Special Note:** Answering **どんな [Noun]** always takes the form `[Adjective] + [Noun] desu` (e.g., *Shizuka na machi desu*).
+
+---
+
+**7. Sentence 1 が、Sentence 2 (Connecting Contrasting Clauses: "but")**
+
+* **Simple Explanation:** The conjunction particle **が** (*ga*) links two clauses or sentences that contrast with each other, equivalent to "but".
+* **Example 1:**
+* **Kanji:** 日本の食べ物は美味しいですが、高いです。
+* **Without Kanji:** にほんのたべものはおいしいですが、たかいです。
+* **Romaji:** Nihon no tabemono wa oishii desu ga, takai desu.
+* **Translation:** Japanese food is delicious, but it is expensive.
+* **Example 2:**
+* **Kanji:** 私の部屋は狭いですが、きれいですか。
+* **Without Kanji:** わたしのへやはせまいですが、きれいですか。
+* **Romaji:** Watashi wa heya wa semai desu ga, kirei desu.
+* **Translation:** My room is small, but it is clean.
+* **Example 3:**
+* **Kanji:** この仕事は忙しいですが、面白いです。
+* **Without Kanji:** このしごとはいそがしいですが、おもしろいです。
+* **Romaji:** Kono shigoto wa isogashii desu ga, omoshiroi desu.
+* **Translation:** This work is busy, but it is interesting.
+* **Exception / Special Note:** A Japanese comma (、) is placed immediately following **が**.
+
+---
+
+**8. Sentence 1。そして Sentence 2 (Connecting Sentences: "And")**
+
+* **Simple Explanation:** **そして** (*soshite*) starts a new sentence to add complementary information ("and", "and also") that reinforces the previous sentence.
+* **Example 1:**
+* **Kanji:** 奈良は古い町です。そして静かな町です。
+* **Without Kanji:** ならはふるいまちです。そしてしずかなまちです。
+* **Romaji:** Nara wa furui machi desu. Soshite shizuka na machi desu.
+* **Translation:** Nara is an old town. And it is a quiet town.
+* **Example 2:**
+* **Kanji:** 富士山は高いです。そしてきれいです。
+* **Without Kanji:** ふじさんはたかいです。そしてきれいです。
+* **Romaji:** Fujisan wa takai desu. Soshite kirei desu.
+* **Translation:** Mt. Fuji is high. And it is beautiful.
+* **Example 3:**
+* **Kanji:** サミットさんは親切です。そして面白いです。
+* **Without Kanji:** サミットさんはしんせつです。そしておもしろいです。
+* **Romaji:** Samitto-san wa shinsetsu desu. Soshite omoshiroi desu.
+* **Translation:** Sumedh is kind. And he is funny.
+* **Exception / Special Note:** Use **そして** to join positive with positive qualities, or negative with negative. If combining a positive and a negative quality, use **～が**.
+
+---
+
+**9. [Noun] は どれですか (Which one is [Noun]?)**
+
+* **Simple Explanation:** **どれ** (*dore*) is an interrogative pronoun meaning "which one" when choosing or identifying an item out of three or more concrete choices.
+* **Example 1:**
+* **Kanji:** サミットさんの傘はどれですか。
+* **Without Kanji:** サミットさんのかさはどれですか。
+* **Romaji:** Samitto-san no kasa wa dore desu ka.
+* **Translation:** Which one is Sumedh's umbrella?
+* **Example 2:**
+* **Kanji:** あなたのカバンはどれですか。
+* **Without Kanji:** あなたのかばんはどれですか。
+* **Romaji:** Anata no kaban wa dore desu ka.
+* **Translation:** Which one is your bag?
+* **Example 3:**
+* **Kanji:** ジョンさんの車はどれですか。
+* **Without Kanji:** ジョンさんのくるまはどれですか。
+* **Romaji:** Jon-san no kuruma wa dore desu ka.
+* **Translation:** Which one is John's car?
+* **Exception / Special Note:** **どれ** is used when selecting among 3 or more items. Choosing strictly between 2 items requires **どちら** (*dochira*).

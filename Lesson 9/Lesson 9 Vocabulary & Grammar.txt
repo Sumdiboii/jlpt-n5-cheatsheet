@@ -1,0 +1,232 @@
+**Lesson 9 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **わかります (わかります, wakarimasu)** – To understand / To comprehend
+* **あります (あります, arimasu)** – To have / To exist (inanimate objects)
+* **好き[な] (すき[な], suki [na])** – Like / Favorite
+* **嫌い[な] (きらい[na], kirai [na])** – Dislike / Hate
+* **上手[な] (じょうず[な], jouzu [na])** – Skillful / Good at
+* **下手[な] (へた[な], heta [na])** – Unskillful / Poor at
+* **料理 (りょうり, ryouri)** – Dish / Cooking / Cuisine
+* **飲み物 (のみもの, nomimono)** – Drink / Beverage
+* **スポーツ (スポーツ, supootsu)** – Sports (*スポーツをします: to play sports*)
+* **野球 (やきゅう, yakyuu)** – Baseball (*野球をします: to play baseball*)
+* **ダンス (ダンス, dansu)** – Dance (*ダンスをします: to dance*)
+* **旅行 (りょこう, ryokou)** – Trip / Travel (*旅行をします: to travel*)
+* **音楽 (おんがく, ongaku)** – Music
+* **歌 (うた, uta)** – Song
+* **クラシック (クラシック, kurashikku)** – Classical music
+* **ジャズ (ジャズ, jazu)** – Jazz
+* **コンサート (コンサート, konsaato)** – Concert
+* **カラオケ (カラオケ, karaoke)** – Karaoke
+* **歌舞伎 (かぶき, kabuki)** – Kabuki (traditional Japanese theater)
+* **絵 (え, e)** – Picture / Drawing / Painting
+* **字 (じ, ji)** – Letter / Character
+* **漢字 (かんじ, kanji)** – Kanji characters
+* **ひらがな (ひらがな, hiragana)** – Hiragana
+* **かたかな (かたかな, katakana)** – Katakana
+* **ローマ字 (ろーまじ, roomaji)** – Roman alphabet
+* **細かいお金 (こまかいおかね, komakai okane)** – Small change / Coins
+* **チケット (チケット, chiketto)** – Ticket (for event/concert)
+* **時間 (じかん, jikan)** – Time
+* **用事 (ようじ, youji)** – Business to attend to / Errand / Something to do
+* **約束 (やくそく, yakusoku)** – Promise / Appointment
+* **アルバイト (アルバイト, arubaito)** – Part-time job (*アルバイトをします: to work a part-time job*)
+* **ご主人 (ごしゅじん, goshujin)** – Someone else's husband
+* **夫 / 主人 (おっと / しゅじん, otto / shujin)** – My husband
+* **奥さん (おくさん, okusan)** – Someone else's wife
+* **妻 / 家内 (つま / かない, tsuma / kanai)** – My wife
+* **子ども (こども, kodomo)** – Child / Children
+* **よく (よく, yoku)** – Well / Much
+* **だいたい (だいたい, daitai)** – Mostly / Roughly / Very well
+* **たくさん (たくさん, takusan)** – Many / Much / A lot
+* **少し (すこし, sukoshi)** – A little / A few
+* **全然 (ぜんぜん, zenzen)** – Not at all *(used with negative)*
+* **早く / 速く (はやく, hayaku)** – Early / Quickly / Fast
+* **～から (～から, ~kara)** – Because ... / So ...
+* **どうして (どうして, doushite)** – Why
+* **貸してください (かしてください, kashite kudasai)** – Please lend me
+* **いいですよ (いいですよ, ii desu yo)** – Sure / Of course
+* **残念です[ね] (ざんねんです[ね], zannen desu [ne])** – That's a pity / That's too bad
+* **一緒にいかがですか (いっしょにいかがですか, issho ni ikaga desu ka)** – Won't you join us?
+* **[～は] ちょっと… ([～は] ちょっと…, [~wa] chotto...)** – [~] is a bit inconvenient / difficult *(polite refusal)*
+* **ダメですか (だめですか, dame desu ka)** – Is it no good? / So you can't?
+* **また今度お願いします (またこんどおねがいします, mata kondo onegai shimasu)** – Please ask me again another time / Next time, please
+
+---
+
+**Grammar Concepts & Examples (Lesson 9)**
+
+**1. [Noun] が 好きです / 嫌いです / 上手です / 下手です (Expressing Likes, Dislikes, and Abilities)**
+
+* **Simple Explanation:** In Japanese, preferences (**好き / 嫌い**) and technical skill levels (**上手 / 下手**) describe feelings or states rather than direct actions. Therefore, the object of these adjectives is marked with **が** (*ga*) instead of the object particle **を** (*o*).
+* **Example 1:**
+* **Kanji:** 私はイタリア料理が好きです。
+* **Without Kanji:** わたしはイタリアりょうりがすきです。
+* **Romaji:** Watashi wa Itaria ryouri ga suki desu.
+* **Translation:** I like Italian food.
+* **Example 2:**
+* **Kanji:** サミットさんはスポーツが好きではありません。
+* **Without Kanji:** サミットさんはスポーツがすきではありません。
+* **Romaji:** Samitto-san wa supootsu ga suki de wa arimasen.
+* **Translation:** Sumedh does not like sports.
+* **Example 3:**
+* **Kanji:** ジョンさんは日本語が上手です。
+* **Without Kanji:** ジョンさんはにほんごがじょうずです。
+* **Romaji:** Jon-san wa Nihongo ga jouzu desu.
+* **Translation:** John is good at Japanese.
+* **Exception / Special Note:** It is considered culturally polite and modest in Japan never to use **上手です** (*jouzu desu*) when describing your own skills; use it only for other people.
+
+---
+
+**2. [Noun] が あります / わかり ます (Expressing Possession and Understanding)**
+
+* **Simple Explanation:** Verbs indicating state, possession (**あります** - to have), or internal comprehension (**わかります** - to understand) take the object particle **が** (*ga*) instead of **を**.
+* **Example 1:**
+* **Kanji:** 私は車があります。
+* **Without Kanji:** わたしはくるまがあります。
+* **Romaji:** Watashi wa kuruma ga arimasu.
+* **Translation:** I have a car.
+* **Example 2:**
+* **Kanji:** サミットさんは日本語がわかります。
+* **Without Kanji:** サミットさんはにほんごがわかります。
+* **Romaji:** Samitto-san wa Nihongo ga wakarimasu.
+* **Translation:** Sumedh understands Japanese.
+* **Example 3:**
+* **Kanji:** 今日は用事があります。
+* **Without Kanji:** きょうはようじがあります。
+* **Romaji:** Kyou wa youji ga arimasu.
+* **Translation:** I have errands/business to attend to today.
+* **Exception / Special Note:** **あります** is used only for non-living objects, events, or abstract concepts (e.g., money, time, cars). Living entities (people, pets) use **います** (*imasu*, introduced in Lesson 10).
+
+---
+
+**3. どんな [Noun] が 好きですか (Asking Specific Preferences within a Category)**
+
+* **Simple Explanation:** When asking someone what specific item or sub-type they like within a broad noun category (like music, sports, food), use **どんな [Noun] が 好きですか**.
+* **Example 1:**
+* **Kanji:** どんなスポーツが好きですか。
+* **Without Kanji:** どんなスポーツがすきですか。
+* **Romaji:** Donna supootsu ga suki desu ka.
+* **Translation:** What kind of sports do you like?
+* **Example 2:**
+* **Kanji:** どんな音楽が好きですか。
+* **Without Kanji:** どんなおんがくがすきですか。
+* **Romaji:** Donna ongaku ga suki desu ka.
+* **Translation:** What kind of music do you like?
+* **Example 3:**
+* **Kanji:** サミットさんはどんな食べ物が好きですか。
+* **Without Kanji:** サミットさんはどんなたべものがすきですか。
+* **Romaji:** Samitto-san wa donna tabemono ga suki desu ka.
+* **Translation:** What kind of food does Sumedh like?
+* **Exception / Special Note:** Respond directly with the specific noun item followed by **が好きです** (e.g., *Sakka- ga suki desu* - "I like soccer").
+
+---
+
+**4. Degree Adverbs with わかります and あります**
+
+* **Simple Explanation:** Degree adverbs are placed directly before verbs of comprehension (**わかります**) or possession (**あります**) to specify the exact extent or quantity.
+* **Degree Scale for わかります (Understanding):**
+* **よく** (well / completely)
+* **だいたい** (mostly / roughly)
+* **少し** (a little)
+* **あまり** (+ negative verb: not much)
+* **全然** (+ negative verb: not at all)
+
+
+* **Degree Scale for あります (Possession):**
+* **たくさん** (a lot / many)
+* **少し / ちょっと** (a little / a few)
+* **あまり** (+ negative verb: not much)
+* **全然** (+ negative verb: not at all)
+
+
+* **Example 1:**
+* **Kanji:** 私は英語がよくわかります。
+* **Without Kanji:** わたしはえいごがよくわかります。
+* **Romaji:** Watashi wa Eigo ga yoku wakarimasu.
+* **Translation:** I understand English well.
+* **Example 2:**
+* **Kanji:** サミットさんは漢字が全然わかりません。
+* **Without Kanji:** サミットさんはかんじがぜんぜんわかりません。
+* **Romaji:** Samitto-san wa Kanji ga zenzen wakarimasen.
+* **Translation:** Sumedh does not understand Kanji at all.
+* **Example 3:**
+* **Kanji:** お金がたくさんあります。
+* **Without Kanji:** おかねがたくさんあります。
+* **Romaji:** Okane ga takusan arimasu.
+* **Translation:** I have a lot of money.
+* **Exception / Special Note:** **あまり** and **全然** strictly demand a negative sentence ending (**～ません**).
+
+---
+
+**5. Sentence 1 から、Sentence 2 (Reasoning & Conjunction: "Because..., S2")**
+
+* **Simple Explanation:** The particle **から** (*kara*) connects two clauses where **Sentence 1** states the cause or reason, and **Sentence 2** states the resulting state, action, or conclusion ("Because [Sentence 1], [Sentence 2]").
+* **Example 1:**
+* **Kanji:** 時間がありませんから、新聞を読みません。
+* **Without Kanji:** じかんがありませんから、しんぶんをよみません。
+* **Romaji:** Jikan ga arimasen kara, shinbun o yomimasen.
+* **Translation:** Because I don't have time, I don't read the newspaper.
+* **Example 2:**
+* **Kanji:** 日本語が分かりませんから、英語で話してください。
+* **Without Kanji:** にほんごがわかりませんから、えいごではなしてください。
+* **Romaji:** Nihongo ga wakarimasen kara, Eigo de hanashite kudasai.
+* **Translation:** Because I don't understand Japanese, please speak in English.
+* **Example 3:**
+* **Kanji:** サミットさんは忙しいですから、どこも行きません。
+* **Without Kanji:** サミットさんはいそがしいですから、どこもいきません。
+* **Romaji:** Samitto-san wa isogashii desu kara, doko mo ikimasen.
+* **Translation:** Sumedh is busy, so he doesn't go anywhere.
+* **Exception / Special Note:** Sentence order in Japanese is the exact reverse of English "S2 because S1" structures—the reason always comes first before **から**.
+
+---
+
+**6. どうして ～か and Answering with ～から (Asking "Why?")**
+
+* **Simple Explanation:** Use the question word **どうして** (*doushite*) at the beginning of a sentence to ask "Why?". When answering a **どうして** question, conclude your explanation with **～から** (*-kara*).
+* **Example 1:**
+* **Kanji:** どうして朝ご飯を食べませんでしたか。
+* **Without Kanji:** どうしてあさごはんをたべませんでしたか。
+* **Romaji:** Doushite asagohan o tabemasen deshta ka.
+* **Translation:** Why didn't you eat breakfast?
+* **Kanji Answer:** 時間がありませんでしたから。
+* **Without Kanji:** じかんがありませんでしたから。
+* **Romaji:** Jikan ga arimasen deshta kara.
+* **Translation:** Because I didn't have time.
+* **Example 2:**
+* **Kanji:** サミットさんはどうして昨日休みましたか。
+* **Without Kanji:** サミットさんはどうしてきのうやすみましたか。
+* **Romaji:** Samitto-san wa doushite kinou yasumimashita ka.
+* **Translation:** Why was Sumedh absent yesterday?
+* **Kanji Answer:** 用事がありましたから。
+* **Without Kanji:** ようじがありましたから。
+* **Romaji:** Youji ga arimashita kara.
+* **Translation:** Because he had an errand to do.
+* **Exception / Special Note:** You can place **～から** at the very end of your response standalone when answering a direct "Why?" query.
+
+---
+
+**7. Polite Declination Pattern ([Noun] は ちょっと…)**
+
+* **Simple Explanation:** In Japanese social etiquette, directly rejecting an invitation with "No" is considered harsh. Instead, state the event/topic followed by **は ちょっと…** (*wa chotto...* - "is a bit..."), leaving the refusal implied.
+* **Example 1:**
+* **Kanji:** 一緒にビールを飲みませんか。
+* **Without Kanji:** いっしょにビールをのみませんか。
+* **Romaji:** Issho ni biiru o nomimasen ka.
+* **Translation:** Won't you drink beer together with me?
+* **Kanji Answer:** 今日はちょっと…。
+* **Without Kanji:** きょうはちょっと…。
+* **Romaji:** Kyou wa chotto...
+* **Translation:** Today is a bit... [inconvenient for me].
+* **Example 2:**
+* **Kanji:** 明日、サッカーをしませんか。
+* **Without Kanji:** あした、サッカーをしませんか。
+* **Romaji:** Ashita, sakkaa o shimasen ka.
+* **Translation:** Won't you play soccer tomorrow?
+* **Kanji Answer:** 明日はちょっと用事があります。
+* **Without Kanji:** あしたはちょっとようじがあります。
+* **Romaji:** Ashita wa chotto youji ga arimasu.
+* **Translation:** Tomorrow is a bit... I have an errand to do.
+* **Exception / Special Note:** After hearing this polite declination, the inviter typically responds with **残念ですね** (*Zannen desu ne* - "That's a pity") or **また今度お願いします** (*Mata kondo onegai shimasu* - "Please ask me again next time").

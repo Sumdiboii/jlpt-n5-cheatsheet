@@ -1,0 +1,257 @@
+**Lesson 3 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **ここ** – Here / This place (close to the speaker)
+* **そこ** – There / That place near you (close to the listener)
+* **あそこ** – Over there / That place far from both
+* **どこ** – Where / What place
+* **こちら** – This way / Here (polite equivalent of *koko*)
+* **そちら** – That way / There (polite equivalent of *soko*)
+* **あちら** – That way over there (polite equivalent of *asoko*)
+* **どちら** – Which way / Where (polite equivalent of *doko*)
+* **教室 (きょうしつ)** – Classroom
+* **食堂 (しょくどう)** – Dining hall / Canteen
+* **事務所 (じむしょ)** – Office
+* **会議室 (かいぎしつ)** – Meeting room / Conference room
+* **受付 (うけつけ)** – Reception desk
+* **ロビー** – Lobby
+* **部屋 (へや)** – Room
+* **トイレ / お手洗い (おてあらい)** – Restroom / Toilet
+* **階段 (かいだん)** – Stairs
+* **お風呂 (おふろ)** – Bathroom / Bath
+* **自動販売機 (じどうはんばいき)** – Vending machine
+* **電話 (でんわ)** – Telephone / Phone call
+* **国 (くに)** – Country / Hometown
+* **会社 (かいしゃ)** – Company
+* **家 (いえ / うち)** – House / Home
+* **靴 (くつ)** – Shoes
+* **ネクタイ** – Necktie
+* **ワイン** – Wine
+* **売り場 (うりば)** – Department / Counter (in a store)
+* **地下 (ちか)** – Underground / Basement
+* **何階 (なんかい)** – What floor
+* **～階 (～かい / ～がい)** – ~ floor
+* **いくら** – How much (price)
+* **百 (ひゃく)** – Hundred
+* **千 (せん)** – Thousand
+* **万 (まん)** – Ten thousand
+* **円 (えん)** – Japanese Yen
+* **イタリア** – Italy
+* **スイス** – Switzerland
+* **いくらですか** – How much is it?
+* **イタリア製 (イタリアせい)** – Made in Italy
+* **失礼します (しつれいします)** – Excuse me / Goodbye (polite)
+* **～でございます** – Polite equivalent of *desu*
+* **[~] を見せてください (~ をみせてください)** – Please show me [~]
+* **じゃ** – Well then / In that case
+* **[~] をください** – Please give me [~]
+
+---
+
+**Grammar Concepts & Examples (Lesson 3)**
+
+**1. ここ / そこ / あそこ / どこ (Place Pronouns)**
+
+* **Simple Explanation:** These words point to physical locations rather than objects. ここ is where you are, そこ is where the person you are talking to is, あそこ is far away from both of you, and どこ asks "where?"
+* **Example 1:**
+* **Kanji:** ここは食堂です。
+* **Without Kanji:** ここはしょくどうです。
+* **Romaji:** Koko wa shokudou desu.
+* **Translation:** Here is the dining hall.
+
+
+* **Example 2:**
+* **Kanji:** 事務所はあそこです。
+* **Without Kanji:** じむしょはあそこです。
+* **Romaji:** Jimusho wa asoko desu.
+* **Translation:** The office is over there.
+
+
+* **Example 3:**
+* **Kanji / Kana:** トイレはどこですか。
+* **Romaji:** Toire wa doko desu ka.
+* **Translation:** Where is the restroom?
+
+
+* **Exception / Special Note:** Unlike English where you might say "The room is *in* here," Japanese grammar treats ここ, そこ, and あそこ as the complete location noun itself, followed directly by the topic marker は.
+
+---
+
+**2. こちら / そちら / あちら / どちら (Polite Place and Direction Pronouns)**
+
+* **Simple Explanation:** These are the polite versions of ここ, そこ, あそこ, どこ. They are used heavily in business, shops, or when you want to sound more respectful. They can mean "this place/direction" or even politely refer to "this person/company."
+* **Example 1:**
+* **Kanji:** 会議室はどちらですか。
+* **Without Kanji:** かいぎしつはどちらですか。
+* **Romaji:** Kaigishitsu wa dochira desu ka.
+* **Translation:** Where is the meeting room? (Polite)
+
+
+* **Example 2:**
+* **Kanji:** 受付はあちらです。
+* **Without Kanji:** うけつけはあちらです。
+* **Romaji:** Uketsuke wa achira desu.
+* **Translation:** The reception desk is over there. (Polite)
+
+
+* **Example 3:**
+* **Kanji:** どちらの国から来ましたか。
+* **Without Kanji:** どちらのくにからきましたか。
+* **Romaji:** Dochira no kuni kara kimashita ka.
+* **Translation:** Which country are you from? *(Lit: From which direction's country did you come?)*
+
+
+* **Exception / Special Note:** どちら is also used to ask "Which one?" when choosing between two options, or to ask a company or university affiliation politely.
+
+---
+
+**3. [Noun (Place)] は [Noun (Location/Entity)] です (Where something is located)**
+
+* **Simple Explanation:** To state where a place, room, or building is located, you put the destination/room name as the topic (は), followed by the specific location word.
+* **Example 1:**
+* **Kanji:** 電話はロビーです。
+* **Without Kanji:** でんわはロビーです。
+* **Romaji:** Denwa wa robii desu.
+* **Translation:** The telephone is in the lobby.
+
+
+* **Example 2:**
+* **Kanji:** 事務所は地下です。
+* **Without Kanji:** じむしょはちかです。
+* **Romaji:** Jimusho wa chika desu.
+* **Translation:** The office is in the basement.
+
+
+* **Example 3:**
+* **Kanji:** 先生の部屋はどこですか。
+* **Without Kanji:** せんせいのへやはどこですか。
+* **Romaji:** Sensei no heya wa doko desu ka.
+* **Translation:** Where is the teacher's room?
+
+
+* **Exception / Special Note:** The subject and location components can be flipped depending on what you want to emphasize as the main topic of conversation, though [Place] wa [Location] desu is the standard textbook pattern.
+
+---
+
+**4. [Noun] の [Country Name] / [Noun]製 (Origin and Country of Manufacture)**
+
+* **Simple Explanation:** You can use the possessive particle の to state what country a product comes from, or use the suffix ～製 (-sei, meaning "made in").
+* **Example 1:**
+* **Kanji:** これは日本の車です。
+* **Without Kanji:** これはにほんのくるまです。
+* **Romaji:** Kore wa nihon no kuruma desu.
+* **Translation:** This is a Japanese car.
+
+
+* **Example 2:**
+* **Kanji:** その時計はスイスの時計ですか。
+* **Without Kanji:** そのとけいはスイスのとけいですか。
+* **Romaji:** Sono tokei wa suisu no tokei desu ka.
+* **Translation:** Is that watch a Swiss watch?
+
+
+* **Example 3:**
+* **Kanji:** このパソコンはアメリカ製です。
+* **Without Kanji:** このパソコンはアメリカせいです。
+* **Romaji:** Kono pasokon wa amerika-sei desu.
+* **Translation:** This personal computer is made in America.
+
+
+* **Exception / Special Note:** When repeating a noun like "watch" (とけい) sounds redundant in conversation, you can shorten it using の (e.g., スイスのです = It's a Swiss one).
+
+---
+
+**5. いくらですか / [Number] 円 (Asking and Stating Prices)**
+
+* **Simple Explanation:** Use いくら (ikura) to ask "How much?" Combine numbers with 円 (えん) to state costs. Japanese currency counts up using units of hundreds (百), thousands (千), and ten-thousands (万).
+* **Example 1:**
+* **Kanji / Kana:** このネクタイはいくらですか。
+* **Romaji:** Kono nekutai wa ikura desu ka.
+* **Translation:** How much is this necktie?
+
+
+* **Example 2:**
+* **Kanji:** そのワインは三千五百円です。
+* **Without Kanji:** そのワインはさんぜんごひゃくえんです。
+* **Romaji:** Sono wain wa san-zen go-hyaku en desu.
+* **Translation:** That wine is 3,500 yen.
+
+
+* **Example 3:**
+* **Kanji:** この靴は一万二千円です。
+* **Without Kanji:** このくつはいちまんにせんえんです。
+* **Romaji:** Kono kutsu wa ichi-man ni-sen en desu.
+* **Translation:** These shoes are 12,000 yen.
+
+
+* **Exception / Special Note:** Japanese counting groupings differ from English; instead of thousands, Japanese primary large counting grouping shifts at 万 (まん = 10,000). For example, 15,000 is literally read as "one *man* five thousand" (いちまんごせん).
+
+---
+
+**6. ～階 (~kai / ~gai): Floor Counter & Building Levels (1 to 20)**
+
+* **Simple Explanation:** The counter suffix ～階 is attached to numbers to specify floor levels. Note that several numbers undergo phonological changes for easier pronunciation.
+* **1st Floor:** 一階 (いっかい)
+* **2nd Floor:** 二階 (にかい)
+* **3rd Floor:** 三階 (さんがい)
+* **4th Floor:** 四階 (よんかい)
+* **5th Floor:** 五階 (ごかい)
+* **6th Floor:** 六階 (ろっかい)
+* **7th Floor:** 七階 (ななかい)
+* **8th Floor:** 八階 (はっかい / はちかい)
+* **9th Floor:** 九階 (きゅうかい)
+* **10th Floor:** 十階 (じっかい / じょっかい)
+* **11th Floor:** 十一階 (じゅういっかい)
+* **12th Floor:** 十二階 (じゅうにかい)
+* **13th Floor:** 十三階 (じゅうさんがい)
+* **14th Floor:** 十四階 (じゅうよんかい)
+* **15th Floor:** 十五階 (じゅうごかい)
+* **16th Floor:** 十六階 (じゅうろっかい)
+* **17th Floor:** 十七階 (じゅうななかい)
+* **18th Floor:** 十八階 (じゅうはっかい)
+* **19th Floor:** 十九階 (じゅうきゅうかい)
+* **20th Floor:** 二十階 (にじっかい / にじょっかい)
+* **Question Word:** 何階 (なんかい - What floor?)
+
+---
+
+**7. ～製 (~sei: Made in / Manufacturer Suffix)**
+
+* **Simple Explanation:** The suffix ～せい (*-sei*) attaches directly to country names or company nouns to describe where an item was manufactured.
+* **Example 1:**
+* **Kanji:** この時計はスイス製です。
+* **Without Kanji:** このとけいはスイスせいです。
+* **Romaji:** Kono tokei wa suisu-sei desu.
+* **Translation:** This watch is Swiss-made.
+
+
+* **Example 2:**
+* **Kanji:** その車は日本製ですか。
+* **Without Kanji:** そのくるまはにほんせいですか。
+* **Romaji:** Sono kuruma wa nihon-sei desu ka.
+* **Translation:** Is that car made in Japan?
+
+
+* **Exception / Special Note:** It is interchangeable in many contexts with the [Country] no [Noun] structure, but ～せい explicitly emphasizes the manufacturing origin.
+
+---
+
+**8. お- (o-: Polite Prefix for Nouns)**
+
+* **Simple Explanation:** The prefix お- (*o-*) is attached to certain native Japanese nouns to add a layer of elegance, politeness, or respect to everyday objects and locations.
+* **Example 1:**
+* **Kanji:** トイレはどこですか。… お手洗いはいかがですか。 / お手あらいはあそこです。
+* **Without Kanji:** トイレはどこですか。… おてあらいはあそこです。
+* **Romaji:** Toire wa doko desu ka. ... Otearai wa asoko desu.
+* **Translation:** Where is the toilet? ... The restroom is over there. *(Otearai is more polite than toire)*
+
+
+* **Example 2:**
+* **Kanji:** お風呂は部屋の中にあります。
+* **Without Kanji:** おふろはへやのなかにあります。
+* **Romaji:** Ofuro wa heya no naka ni arimasu.
+* **Translation:** The bath is inside the room.
+
+
+* **Exception / Special Note:** This prefix is primarily used with native Japanese words (和語), not with foreign loanwords (katakana words).

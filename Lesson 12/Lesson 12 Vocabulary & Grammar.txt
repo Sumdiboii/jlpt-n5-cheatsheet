@@ -1,0 +1,189 @@
+**Lesson 12 Vocabulary & Grammar**
+
+**Vocabulary List**
+
+* **かんたん[な] (簡単[な], kantan[na])** – Easy, simple
+* **ちかい (近い, chikai)** – Near
+* **とおい (遠い, tooi)** – Far
+* **はやい (速い / 早い, hayai)** – Fast, early
+* **おそい (遅い, osoi)** – Slow, late
+* **おおい (多い, ooi)** – Many, much (e.g., 人が多い – many people)
+* **すくない (少ない, sukunai)** – Few, a little (e.g., 人が少ない – few people)
+* **あたたかい (暖かい / 温かい, atatakai)** – Warm
+* **すずしい (涼しい, suzushii)** – Cool (referring to temperature/weather)
+* **あまい (甘い, amai)** – Sweet
+* **からい (辛い, karai)** – Spicy, hot
+* **おもい (重い, omoi)** – Heavy
+* **かるい (軽い, karui)** – Light (weight)
+* **いい (ii)** – Prefer, choose (e.g., コーヒーがいい – I prefer coffee)
+* **きせつ (季節, kisetsu)** – Season
+* **はる (春, haru)** – Spring
+* **なつ (夏, natsu)** – Summer
+* **あき (秋, aki)** – Autumn, fall
+* **ふゆ (冬, fuyu)** – Winter
+* **てんき (天気, tenki)** – Weather
+* **あめ (雨, ame)** – Rain, rainy
+* **ゆき (雪, yuki)** – Snow, snowy
+* **くもり (曇り, kumori)** – Cloudy
+* **ホテル (hoteru)** – Hotel
+* **くうこう (空港, kuukou)** – Airport
+* **うみ (海, umi)** – Sea, ocean
+* **せかい (世界, sekai)** – World
+* **パーティー (paatii)** – Party
+* **[お]まつり ([お]祭り, [o]matsuri)** – Festival
+* **すきやき (すき焼き, sukiyaki)** – Sukiyaki (beef and vegetable hot pot)
+* **さしみ (刺身, sashimi)** – Sashimi (sliced raw fish)
+* **[お]すし (osushi)** – Sushi
+* **てんぷら (天ぷら, tenpura)** – Tempura (seafood/vegetables deep-fried in batter)
+* **ぶたにく (豚肉, butaniku)** – Pork
+* **とりにく (鶏肉, toriniku)** – Chicken
+* **ぎゅうにく (牛肉, gyuuniku)** – Beef
+* **レモン (remon)** – Lemon
+* **いけばな (生け花, ikebana)** – Flower arrangement
+* **もみじ (紅葉, momiji)** – Maple leaves, autumn colors
+* **どちら (dochira)** – Which one (between two things)
+* **どちらも (dochira mo)** – Both
+* **ずっと (zutto)** – By far (used in comparisons)
+* **はじめて (初めて, hajimete)** – For the first time
+
+---
+
+**Grammar Concepts & Examples (Lesson 12)**
+
+**1. Past Tense of Noun and Na-Adjective Sentences**
+
+* **Simple Explanation:** Nouns and Na-adjectives share the exact same conjugation rules.
+* Present Affirmative: **～です** (*desu*)
+* Present Negative: **～じゃありません** (*ja arimasen*)
+* Past Affirmative: **～でした** (*deshita*)
+* Past Negative: **～じゃありませんでした** (*ja arimasen deshita*)
+
+
+* **Example 1 (Noun Past Affirmative):**
+* **Kanji:** 昨日は雨でした。
+* **Without Kanji:** きのうはあめでした。
+* **Romaji:** Kinou wa ame deshita.
+* **Translation:** It was rainy yesterday.
+
+
+* **Example 2 (Na-Adjective Past Negative):**
+* **Kanji:** 昨日のパーティーは静かじゃありませんでした。
+* **Without Kanji:** きのうのパーティーはしずかじゃありませんでした。
+* **Romaji:** Kinou no paatii wa shizuka ja arimasen deshita.
+* **Translation:** Yesterday's party was not quiet.
+
+
+* **Example 3 (Na-Adjective Past Affirmative):**
+* **Kanji:** 昨日の試験は簡単でした。
+* **Without Kanji:** きのうのしけんはかんたんでした。
+* **Romaji:** Kinou no shiken wa kantan deshita.
+* **Translation:** Yesterday's exam was easy.
+
+
+
+---
+
+**2. Past Tense of I-Adjective Sentences**
+
+* **Simple Explanation:** To make an I-adjective past tense, you must drop the final **い** (*i*) and add **かった** (*katta*) for affirmative, or **くなかった** (*kunakatta*) for negative. (Always keep *desu* at the end for politeness).
+* Present Affirmative: **～いです** (*~i desu*)
+* Present Negative: **～くないです** (*~kunai desu*)
+* Past Affirmative: **～かったです** (*~katta desu*)
+* Past Negative: **～くなかったです** (*~kunakatta desu*)
+* *Special Exception:* **いい** (good) becomes **よかったです** (was good) and **よくなかったです** (was not good).
+
+
+* **Example 1 (Past Affirmative):**
+* **Kanji:** 昨日は寒かったです。
+* **Without Kanji:** きのうはさむかったです。
+* **Romaji:** Kinou wa samukatta desu.
+* **Translation:** It was cold yesterday.
+
+
+* **Example 2 (Past Negative):**
+* **Kanji:** この映画は面白くなかったです。
+* **Without Kanji:** このえいがはおもしろくなかったです。
+* **Romaji:** Kono eiga wa omoshirokunakatta desu.
+* **Translation:** This movie was not interesting.
+
+
+* **Example 3 (Exception rule - いい):**
+* **Kanji:** 旅行はとてもよかったです。
+* **Without Kanji:** りょこうはとてもよかったです。
+* **Romaji:** Ryokou wa totemo yokatta desu.
+* **Translation:** The trip was very good.
+
+
+
+---
+
+**3. Noun 1 は Noun 2 より [Adjective] です (Comparing Two Things)**
+
+* **Simple Explanation:** Use **より** (*yori*) to mean "than". The sentence structure literally translates to "As for N1, compared to N2, it is [Adjective]."
+* **Example 1:**
+* **Kanji:** 中国は日本より大きいです。
+* **Without Kanji:** ちゅうごくはにほんよりおおきいです。
+* **Romaji:** Chuugoku wa Nihon yori ookii desu.
+* **Translation:** China is bigger than Japan.
+* **Example 2:**
+* **Kanji:** 飛行機は電車より速いです。
+* **Without Kanji:** ひこうきはでんしゃよりはやいです。
+* **Romaji:** Hikouki wa densha yori hayai desu.
+* **Translation:** Airplanes are faster than trains.
+* **Example 3:**
+* **Kanji:** サミットさんの車は私のより新しいです。
+* **Without Kanji:** サミットさんのくるまはわたしよりあたらしいです。
+* **Romaji:** Samitto-san no kuruma wa watashi no yori atarashii desu.
+* **Translation:** Sumedh's car is newer than mine. *(Note: "私の" means "mine")*
+
+---
+
+**4. N1 と N2 と どちらが [Adjective] ですか (Which is more...?)**
+
+* **Simple Explanation:** To ask someone to choose between two specific things, use **～と ～と どちらが**. To answer, use **～の ほうが** (*no hou ga*) to indicate the winner of the comparison.
+* **Example 1 (Question):**
+* **Kanji:** コーヒーと紅茶とどちらが好きですか。
+* **Without Kanji:** コーヒーとこうちゃとどちらがすきですか。
+* **Romaji:** Koohii to koucha to dochira ga suki desu ka.
+* **Translation:** Which do you like more, coffee or black tea?
+
+
+* **Example 2 (Answer):**
+* **Kanji:** コーヒーのほうが好きです。
+* **Without Kanji:** コーヒーのほうがすきです。
+* **Romaji:** Koohii no hou ga suki desu.
+* **Translation:** I like coffee more.
+
+
+* **Example 3 (Both):**
+* **Kanji:** どちらも好きです。
+* **Without Kanji:** どちらもすきです。
+* **Romaji:** Dochira mo suki desu.
+* **Translation:** I like both.
+
+
+
+---
+
+**5. N1 [の中] で 何/どこ/誰/いつ が いちばん [Adjective] ですか (The Superlative / Best)**
+
+* **Simple Explanation:** To ask what is the "most" or "best" within a category (N1), use **の中で** (*no naka de* = inside of/among), followed by a question word (What, Where, Who, or When), and **いちばん** (*ichiban* = number one/most).
+* **Example 1 (When):**
+* **Kanji:** 一年でいつがいちばん暑いですか。
+* **Without Kanji:** いちねんでいつがいちばんあついですか。
+* **Romaji:** Ichinen de itsu ga ichiban atsui desu ka.
+* **Translation:** When is the hottest time of the year? *(Note: "の中で" can just be "で" for time/places).*
+
+
+* **Example 2 (What):**
+* **Kanji:** 日本料理の中で何がいちばんおいしいですか。
+* **Without Kanji:** にほんりょうりのなかでなにがいちばんおいしいですか。
+* **Romaji:** Nihon ryouri no naka de nani ga ichiban oishii desu ka.
+* **Translation:** What is the most delicious among Japanese food?
+
+
+* **Example 3 (Where):**
+* **Kanji:** 世界でどこがいちばんきれいですか。
+* **Without Kanji:** せかいでどこがいちばんきれいですか。
+* **Romaji:** Sekai de doko ga ichiban kirei desu ka.
+* **Translation:** Where is the most beautiful place in the world?

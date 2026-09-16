@@ -1,0 +1,221 @@
+**Lesson 23 In-Depth Vocabulary & Grammar Guide**
+
+---
+
+### **Comprehensive Vocabulary Breakdown with Detailed Examples**
+
+1. **ききます (聞きます, kikimasu)** – To ask (e.g., a question to a person).
+* *Example:*
+* **Kanji:** 駅員に道をききます。
+* **Without Kanji:** えきいんにみちをききます。
+* **Romaji:** Ekiin ni michi o kikimasu.
+* **Translation:** I will ask the station attendant for directions.
+
+
+
+
+2. **まわします (回します, mawashimasu)** – To turn, rotate, spin.
+* *Example:*
+* **Kanji:** このハンドルを右に回します。
+* **Without Kanji:** このハンドルをみぎにまわします。
+* **Romaji:** Kono handoru o migi ni mawashimasu.
+* **Translation:** Turn this steering wheel/handle to the right.
+
+
+
+
+3. **ひきます (引きます, hikimasu)** – To pull, draw.
+* *Example:*
+* **Kanji:** ドアを押さないで、引いてください。
+* **Without Kanji:** ドアをおさないで、ひいてください。
+* **Romaji:** Doa o osanaide, hiite kudasai.
+* **Translation:** Don't push the door, please pull it.
+
+
+
+
+4. **かえます (変えます, kaemasu)** – To change, alter, exchange.
+* *Example:*
+* **Kanji:** お金を円からドルに変えます。
+* **Without Kanji:** おかねをえんからドルにかえます。
+* **Romaji:** Okane o en kara doru ni kaemasu.
+* **Translation:** I will change money from yen to dollars.
+
+
+
+
+5. **さわります (触ります, sawarimasu)** – To touch, feel.
+* *Example:*
+* **Kanji:** この機械に触らないでください。
+* **Without Kanji:** このきかいにさわらないでください。
+* **Romaji:** Kono kikai ni sawaranaide kudasai.
+* **Translation:** Please do not touch this machine.
+
+
+
+
+6. **でます (出ます, demasu)** – To come out, exit (specifically used for items like change coming out of a machine).
+* *Example:*
+* **Kanji:** 自動販売機からお釣りが出ます。
+* **Without Kanji:** じどうはんばいきからおつりがでます。
+* **Romaji:** Jidouhanbaiki kara otsuri ga demasu.
+* **Translation:** Change comes out of the vending machine.
+
+
+
+
+7. **あるきます (歩きます, arukimasu)** – To walk.
+* *Example:*
+* **Kanji:** 駅からうちまで歩いて帰ります。
+* **Without Kanji:** えきからうちまであるいてかえります。
+* **Romaji:** Eki kara uchi made aruite kaerimasu.
+* **Translation:** I will walk home from the station.
+
+
+
+
+8. **わたります (渡ります, watarimasu)** – To cross (a bridge, street).
+* *Example:*
+* **Kanji:** 橋を渡ります。
+* **Without Kanji:** はしをわたります。
+* **Romaji:** Hashi o watarimasu.
+* **Translation:** I will cross the bridge.
+
+
+
+
+9. **まがります (曲がります, magarimasu)** – To turn (left or right).
+* *Example:*
+* **Kanji:** 次の角を右に曲がってください。
+* **Without Kanji:** つぎのかどをみぎにまがってください。
+* **Romaji:** Tsugi no kado o migi ni magatte kudasai.
+* **Translation:** Please turn right at the next corner.
+
+
+
+
+10. **みち (道, michi)** – Road, way, street, path.
+* *Example:*
+* **Kanji:** 道が混んでいますから、気をつけましょう。
+* **Without Kanji:** みちがこんでいますから、きをつけましょう。
+* **Romaji:** Michi ga konde imasu kara, ki o tsukemashou.
+* **Translation:** Because the road is crowded, let's be careful.
+
+
+
+
+11. **こうさてん (交差点, kousaten)** – Crossroads, intersection.
+* *Example:*
+* **Kanji:** あの交差点を左に曲がります。
+* **Without Kanji:** あのこうさてんをひだりにまがります。
+* **Romaji:** Ano kousaten o hidari ni magarimasu.
+* **Translation:** I will turn left at that intersection.
+
+
+
+
+12. **しんごう (信号, shingou)** – Traffic light, signal.
+* *Example:*
+* **Kanji:** 信号が赤ですから、止まってください。
+* **Without Kanji:** しんごうがあかですから、とまってください。
+* **Romaji:** Shingou ga aka desu kara, tomatte kudasai.
+* **Translation:** Because the traffic light is red, please stop.
+
+
+
+
+13. **かど (角, kado)** – Corner.
+* *Example:*
+* **Kanji:** 角を曲がると、郵便局があります。
+* **Without Kanji:** かどをまがると、ゆうびんきょくがあります。
+* **Romaji:** Kado o magaru to, yuubinkyoku ga arimasu.
+* **Translation:** When you turn the corner, there is a post office.
+
+
+
+
+14. **はし (橋, hashi)** – Bridge.
+* *Example:*
+* **Kanji:** この橋を渡ると、公園があります。
+* **Without Kanji:** このはしをわたると、こうえんがあります。
+* **Romaji:** Kono hashi o wataru to, kouen ga arimasu.
+* **Translation:** When you cross this bridge, there is a park.
+
+
+
+
+15. **[お]つり ([お]釣り, [o]tsuri)** – Change (money returned).
+* *Example:*
+* **Kanji:** お釣りを忘れないでください。
+* **Without Kanji:** おつりをわすれないでください。
+* **Romaji:** Otsuri o wasurenaide kudasai.
+* **Translation:** Please don't forget your change.
+
+
+
+
+
+---
+
+### **In-Depth Grammar Points & Comprehensive Structural Explanations**
+
+#### **1. Conditional Clauses with と (*to* - "When / If [A], [B]")**
+
+* **In-Depth Explanation:** The conditional particle **と** (*to*) attaches strictly to the **dictionary form (plain non-past form)** of verbs to express an inevitable consequence, natural law, automatic machine operation, or standard spatial instructions. Whenever action A occurs, B invariably follows as a natural result.
+* **Detailed Breakdown & Extended Examples:**
+* **Example A (Machine Operations):**
+* **Kanji:** このボタンを**押すと**、切符が出ます。
+* **Without Kanji:** このボタンを**おすと**、きっぷがでます。
+* **Romaji:** Kono botan o osu to, kippu ga demasu.
+* **Translation:** **When** you press this button, a ticket comes out.
+
+
+* **Example B (Natural Consequences / Environment):**
+* **Kanji:** 春に**なると**、花が咲きます。
+* **Without Kanji:** はるに**なると**、はながさきます。
+* **Romaji:** Haru ni naru to, hana ga sakimasu.
+* **Translation:** **When** it becomes spring, flowers bloom.
+
+
+* **Example C (Giving Directions / Navigation):**
+* **Kanji:** 右へ**曲がると**、郵便局があります。
+* **Without Kanji:** みぎへ**まがると**、ゆうびんきょくがあります。
+* **Romaji:** Migi e magaru to, yuubinkyoku ga arimasu.
+* **Translation:** **If/When** you turn to the right, there is a post office.
+
+
+
+
+
+#### **2. Expressing Route and Motion via Particles (を vs. に vs. で)**
+
+* **In-Depth Explanation:** Lesson 23 emphasizes navigation verbs that require precise spatial particle selection:
+* **を (*o*)** marks the space, surface, or medium **through which** or **across which** motion takes place. (*e.g., 道を歩きます - walk along the road; 橋を渡ります - cross across the bridge*).
+* **に (*ni*)** indicates the destination point, point of arrival, or directional orientation turned toward. (*e.g., 右に曲がります - turn toward the right; 交差点に着きます - arrive at the intersection*).
+* **で (*de*)** indicates the location where an action occurs.
+
+
+* **Extended Examples:**
+* **Kanji:** 公園の**中を**散歩します。
+* **Without Kanji:** こうえんの**なかを**さんぽします。
+* **Romaji:** Kouen no naka o sanpo shimasu.
+* **Translation:** I take a walk **through the inside of** the park.
+* **Kanji:** 次の角を**左に**曲がります。
+* **Without Kanji:** つぎのかどを**ひだりに**まがります。
+* **Romaji:** Tsugi no kado o hidari ni magarimasu.
+* **Translation:** Turn **to the left** at the next corner.
+
+
+
+#### **3. Sequential Actions and Giving Navigational Instructions**
+
+* **In-Depth Explanation:** To guide someone step-by-step through a city, combine **~て** / **~てから** (sequential connector: "do [A] and then...") with motion verbs and conditional **~と** markers.
+* **Extended Example of Directions:**
+* **Kanji:** まっすぐ**行って**、二つ目の角を右に**曲がると**、銀行があります。
+* **Without Kanji:** まっすぐ**いって**、ふたつめのかどをみぎに**まがると**、ぎんこうがあります。
+* **Romaji:** Massugu itte, futatsu-me no kado o migi ni magaru to, ginkou ga arimasu.
+* **Translation:** Go straight, and **when** you turn right at the second corner, there is a bank.
+
+
+
+---
